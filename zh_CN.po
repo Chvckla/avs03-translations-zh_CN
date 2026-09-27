@@ -35,7 +35,7 @@ msgstr "默认"
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
 msgstr ""
-"没有奖励或惩罚。\n"
+"没有加成或惩罚。\n"
 "均衡的基础指针。"
 
 #. Class select - name (null)
