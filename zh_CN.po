@@ -20,8 +20,8 @@ msgstr "砖头"
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
 msgstr ""
-"获得 +40 点最大生命值。\n"
-"获得 +12 点护甲。\n"
+"最大生命值增加 +40 点。\n"
+"护甲增加 +12 点。\n"
 "指针速度为 0.8 倍。\n"
 "武器伤害为 0.85 倍。\n"
 "当受到伤害时，武器伤害变为原来的 1.1 倍（持续 8 秒，可叠加 3 层）。"
@@ -47,8 +47,8 @@ msgstr "空指针"
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
 msgstr ""
-"减少 -25 点最大生命值。\n"
-"获得 +8 点丢包。\n"
+"最大生命值减少 -25 点。\n"
+"丢包增加 +8 点。\n"
 "幸运为 1.5 倍。\n"
 "武器伤害为 0.9 倍。"
 
@@ -62,12 +62,12 @@ msgstr "向量"
 msgid "CLASS.vector.description"
 msgstr ""
 "指针速度为 1.25 倍。\n"
-"获得 +15 点丢包。\n"
-"减少 -25 点最大生命值。\n"
+"丢包增加 +15 点。\n"
+"最大生命值减少 -25 点。\n"
 "幸运为 1.5 倍。\n"
 "武器伤害为 0.9 倍。\n"
-"当受到伤害时，指针速度为原来的 1.25 倍，丢包的刷新速度为原来的 1.2 倍（持"
-"续 8 秒，可叠加 3 层）。"
+"当受到伤害时，指针速度变为原来的 1.25 倍，丢包的刷新速度变为原来的 1.2 倍"
+"（持续 8 秒，可叠加 3 层）。"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -78,9 +78,9 @@ msgstr "断点"
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
 msgstr ""
-"获得 +12% 暴击率。\n"
+"暴击率增加 +12%。\n"
 "暴击伤害为 1.25 倍。\n"
-"减少 -15 点最大生命值。\n"
+"最大生命值减少 -15 点。\n"
 "指针速度为 0.9 倍。\n"
 "武器伤害为 0.92 倍。"
 
@@ -149,22 +149,22 @@ msgstr ""
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
 msgid "META.armor.description"
-msgstr "每升一级获得 +1 点护甲。"
+msgstr "每升一级，护甲增加 +1 点。"
 
 #. Meta upgrade menu - description (coin_gain)
 #. source: Multiply Coin Gain by an extra +1% per Rank.
 msgid "META.coin_gain.description"
-msgstr "每升一级，硬币获取增加 1%。"
+msgstr "每升一级，硬币获取增加 +1%。"
 
 #. Meta upgrade menu - description (crit_chance)
 #. source: Increases Crit Chance +1% per Rank.
 msgid "META.crit_chance.description"
-msgstr "每升一级，暴击率增加 1%。"
+msgstr "每升一级，暴击率增加 +1%。"
 
 #. Meta upgrade menu - description (crit_damage)
 #. source: Multiply Crit Damage by an extra +2% per Rank.
 msgid "META.crit_damage.description"
-msgstr "每升一级，暴击伤害增加 2%。"
+msgstr "每升一级，暴击伤害增加 +2%。"
 
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
@@ -174,32 +174,32 @@ msgstr "指针速度"
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "每升一级，指针速度增加 1%。"
+msgstr "每升一级，指针速度增加 +1%。"
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
 msgid "META.exp_gain.description"
-msgstr "每升一级，经验获取增加 2%。"
+msgstr "每升一级，经验获取增加 +2%。"
 
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 Health Regen per Rank.
 msgid "META.health_regen.description"
-msgstr "每升一级，生命再生增加 1 点。"
+msgstr "每升一级，生命再生增加 +1 点。"
 
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
 msgid "META.luck.description"
-msgstr "每升一级，幸运增加 1%。"
+msgstr "每升一级，幸运增加 +1%。"
 
 #. Meta upgrade menu - description (magnetism)
 #. source: Multiply Magnetism by an extra +2% per Rank.
 msgid "META.magnetism.description"
-msgstr "每升一级，磁吸力增加 1 点。"
+msgstr "每升一级，磁吸力增加 +2%。"
 
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 Max HP per Rank.
 msgid "META.max_health.description"
-msgstr "每升一级，最大生命值增加 10 点。"
+msgstr "每升一级，最大生命值增加 +10 点。"
 
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
@@ -209,32 +209,32 @@ msgstr "丢包"
 #. Meta upgrade menu - description (packet_loss)
 #. source: Adds +1 Packet Loss per Rank.
 msgid "META.packet_loss.description"
-msgstr "每升一级，丢包增加 1 点。"
+msgstr "每升一级，丢包增加 +1 点。"
 
 #. Meta upgrade menu - description (proc_speed)
 #. source: Multiply Processing Speed by an extra +1% per Rank.
 msgid "META.proc_speed.description"
-msgstr "每升一级，处理速度增加 1%。"
+msgstr "每升一级，处理速度增加 +1%。"
 
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr "每升一级，武器数量几率增加 3%。"
+msgstr "每升一级，武器数量几率增加 +3%。"
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
 msgid "META.weap_damage.description"
-msgstr "每升一级，武器伤害增加 2%。"
+msgstr "每升一级，武器伤害增加 +2%。"
 
 #. Meta upgrade menu - description (weap_refresh)
 #. source: Multiply Weapon Refresh by an extra +1% per Rank.
 msgid "META.weap_refresh.description"
-msgstr "每升一级，武器刷新速度增加 1%。"
+msgstr "每升一级，武器刷新速度增加 +1%。"
 
 #. Meta upgrade menu - description (weap_repel)
 #. source: Multiply Weapon Repel by an extra +1% per Rank.
 msgid "META.weap_repel.description"
-msgstr "每升一级，武器击退增加 1%。"
+msgstr "每升一级，武器击退增加 +1%。"
 
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
@@ -254,7 +254,7 @@ msgstr "护甲增强"
 #. Plugin - description (armor_boost)
 #. source: Add +5 Armo(u)r.
 msgid "PLUGIN.armor_boost.description"
-msgstr "获得 +5 点护甲。"
+msgstr "护甲增加 +5 点。"
 
 #. Plugin - name (armor_damage_trigger)
 #. source: Hardware IRQ
@@ -265,8 +265,8 @@ msgstr "硬件中断"
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
 msgstr ""
-"获得 +5 点护甲。\n"
-"当受到伤害时，获得 +25 点丢包（持续 10 秒）。"
+"护甲增加 +5 点。\n"
+"当受到伤害时，丢包增加 +25 点（持续 10 秒）。"
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -276,7 +276,7 @@ msgstr "最后一次的正确"
 #. Plugin - description (armor_missing_hp)
 #. source: Add +1 Armo(u)r per 2% missing HP.
 msgid "PLUGIN.armor_missing_hp.description"
-msgstr "每失去 %1 的生命值，便获得 +1 点护甲。"
+msgstr "每失去 2% 的生命值，护甲便增加 +1 点。"
 
 #. Plugin - name (big_hp_regen_boost)
 #. source: Enterprise Edition
@@ -287,8 +287,8 @@ msgstr "企业版"
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
 msgstr ""
-"获得 +64 点最大生命值。\n"
-"获得 +12 点生命再生。"
+"最大生命值增加 +64 点。\n"
+"生命再生增加 +12 点。"
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -318,7 +318,7 @@ msgstr "磁盘清理"
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
 msgid "PLUGIN.chance_defrag.description"
-msgstr "每过 30 秒，便有 10% 几率进行一次碎片整理。"
+msgstr "每过 30 秒，便有 10% 几率执行一次碎片整理。"
 
 #. Plugin - name (coin_boost)
 #. source: Coin Gain Boost
@@ -454,7 +454,7 @@ msgstr "最大生命值增强"
 #. Plugin - description (hp_boost)
 #. source: Add +15 Max HP.
 msgid "PLUGIN.hp_boost.description"
-msgstr "获得 +15 点最大生命值。"
+msgstr "最大生命值增加 +15 点。"
 
 #. Plugin - name (hp_on_heal)
 #. source: AutoRecover
@@ -464,7 +464,7 @@ msgstr "自动恢复"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr "当受到治疗时，有 7% 几率获得 +3 点最大生命值。"
+msgstr "当受到治疗时，最大生命值有 7% 几率增加 +3 点。"
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -534,7 +534,7 @@ msgstr "丢包增强"
 #. Plugin - description (packet_loss_boost)
 #. source: Add +6 Packet Loss.
 msgid "PLUGIN.packet_loss_boost.description"
-msgstr "获得 +6 点丢包。"
+msgstr "丢包增加 +6 点。"
 
 #. Plugin - name (processing_speed_boost)
 #. source: Processing Speed Boost
@@ -554,7 +554,7 @@ msgstr "生命再生增强"
 #. Plugin - description (regen_boost)
 #. source: Add +5 Health Regen.
 msgid "PLUGIN.regen_boost.description"
-msgstr "获得 +5 点生命再生。"
+msgstr "生命再生增加 +5 点。"
 
 #. Plugin - name (shop_discount_10)
 #. source: Coupon Code
@@ -597,7 +597,7 @@ msgstr "智能恢复"
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
 msgstr ""
-"获得 +10 点最大生命值。\n"
+"最大生命值增加 +10 点。\n"
 "当打开安全文件夹时，回复 25% 的最大生命值。"
 
 #. Plugin - name (weapon_speed_boost)
@@ -650,7 +650,7 @@ msgstr "读我文档"
 msgid "PLUGIN.xp_gain_on_damage.description"
 msgstr ""
 "经验获取增加 +10%。\n"
-"当受到伤害时，获得 +4 点经验。"
+"当受到伤害时，经验增加 +4 点。"
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -1044,7 +1044,7 @@ msgstr "幸运"
 #. Stat display - description (upgrade_player_luck)
 #. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
 msgid "STAT.upgrade_player_luck.description"
-msgstr "出现更好结果的几率提升，不止能让稀有度更高，还有其他益处。"
+msgstr "出现更好结果的几率提升，不仅能让稀有度更高，还有其他益处。"
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1074,7 +1074,7 @@ msgstr "武器特性"
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
 msgid "STAT.upgrade_player_power_multi.description"
-msgstr "增强所有武器的击退、灼烧、感染与卡顿等特性的威力。"
+msgstr "增强所有武器的击退、灼烧、感染、卡顿等特性的威力。"
 
 #. Stat display - name (upgrade_player_proc_speed)
 #. source: Processing Speed
@@ -1116,7 +1116,7 @@ msgstr "武器数量"
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr "每次攻击时，额外生成武器的几率（与基础数量相关）。"
+msgstr "每次攻击时额外生成武器的几率（相对于基础数值）。"
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1214,7 +1214,7 @@ msgstr "{weapon}的击退效果增加 +{percent}%。"
 #. source: Increases {weapon} Heat Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.heat.description"
-msgstr "{weapon}的灼热效果增加 +{percent}%。"
+msgstr "{weapon}的灼烧效果增加 +{percent}%。"
 
 #. Weapon upgrade card - lag stacks power description
 #. source: Increases {weapon} Lag Stacks by +{percent}%.
@@ -1358,7 +1358,7 @@ msgstr "最大生命值增加 +{percent} 点。‪"
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "所有武器的击退、灼烧、感染与卡顿等效果增加 +{percent}%。"
+msgstr "所有武器的击退、灼烧、感染、卡顿等效果增加 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1434,12 +1434,12 @@ msgstr "剪切"
 #. Upgrade card - description (weapon_cut)
 #. source: Scissors slice through the nearest enemy.
 msgid "UPGRADE.weapon_cut.description"
-msgstr "剪刀会切开最近的敌人。"
+msgstr "剪刀会剪开最近的敌人。"
 
 #. Upgrade card - name (weapon_firewall)
 #. source: Firewall
 msgid "UPGRADE.weapon_firewall.name"
-msgstr "火墙"
+msgstr "放火墙"
 
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
@@ -1459,7 +1459,7 @@ msgstr "向最强的敌人砸下字符，可为敌人叠加灼烧效果。"
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
 msgid "UPGRADE.weapon_hitmarkers.name"
-msgstr "光荣使命"
+msgstr "荣誉黎明3"
 
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
@@ -1489,7 +1489,7 @@ msgstr "向最近的敌人射出一颗弹来弹去的球。"
 #. Upgrade card - name (weapon_quarantine)
 #. source: Quarantine
 msgid "UPGRADE.weapon_quarantine.name"
-msgstr "隔离"
+msgstr "隔离区"
 
 #. Upgrade card - description (weapon_quarantine)
 #. source: Scans an area around the player damaging enemies.
@@ -1539,12 +1539,12 @@ msgstr "在指针上方和下方斩击。额外数量会增加交替出现的斩
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
 msgid "UPGRADE.weapon_sniper.name"
-msgstr "狙击精英 1.6"
+msgstr "鸟狙精英 1.6"
 
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr "一枪重击狙杀最强敌人，还有击杀提示。"
+msgstr "重重一枪狙杀最强敌人，还有击杀提示。"
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1609,12 +1609,12 @@ msgstr "环绕的对话气泡光束，能发送信息并使敌人卡顿。"
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
 msgid "UPGRADE.weapon_cone.name"
-msgstr "VLC 牌路锥"
+msgstr "威乐希路锥"
 
 #. Upgrade card - description (weapon_cone)
 #. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "紧贴着您的橙色交通楔形物，它们灼烧烹煮所指向的目标。"
+msgstr "围着您旋转的橙色交通楔形物，它们灼烧炙烤指向的目标。"
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -2080,7 +2080,7 @@ msgstr "当受到伤害时震动控制器。"
 #. Settings menu
 #. source: OK
 msgid "SETTINGS.ok"
-msgstr "OK"
+msgstr "确定"
 
 #. Settings menu
 #. source: Restore Defaults
@@ -2306,7 +2306,7 @@ msgstr "新用户"
 #. Login screen - create profile entry subtitle
 #. source: Create a profile
 msgid "UI.login_new_user_detail"
-msgstr "创建配置文件"
+msgstr "创建用户配置"
 
 #. Login screen - imported demo save entry name
 #. source: Demo Save
@@ -2333,8 +2333,9 @@ msgstr "已登录"
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
 msgstr ""
-"要开始，请单击您的用户名。\\n登录后，您可以更改配置文件。\\n只要点击菜单顶"
-"部您的名字即可。"
+"要开始，请单击您的用户名。\n"
+"登录后，您可以更改用户配置。\n"
+"只要点击菜单顶部您的名字即可。"
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2364,7 +2365,7 @@ msgstr "桌面"
 #. Personalise window - Profile tab
 #. source: Profile
 msgid "UI.personalise_tab_profile"
-msgstr "配置文件"
+msgstr "用户配置"
 
 #. Personalise window - locked avatar hint
 #. source: Open .png files in a run to unlock more pictures.
@@ -2385,7 +2386,7 @@ msgstr "%d/%d 已解锁"
 #. Personalise window - hide locked themes and wallpapers
 #. source: Hide Locked
 msgid "UI.personalise_hide_locked"
-msgstr "隐藏未解锁"
+msgstr "隐藏未解锁项"
 
 #. Personalise theme preview - active window title
 #. source: Active Window
@@ -2405,7 +2406,7 @@ msgstr "消息框"
 #. Personalise window - use Steam name and picture checkbox
 #. source: Use Steam profile
 msgid "UI.personalise_use_steam_profile"
-msgstr "使用 Steam 配置文件"
+msgstr "使用 Steam 头像和用户名"
 
 #. Personalise window - Steam overlay name prompt
 #. source: Enter a name
@@ -2626,12 +2627,12 @@ msgstr "Profile.xls - 杀软幸存者"
 #. Start menu - Tasks and Stats button
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
-msgstr "任务与属性"
+msgstr "任务和统计"
 
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
-msgstr "属性"
+msgstr "统计"
 
 #. Profile stats window - tasks tab label
 #. source: Tasks
@@ -2656,20 +2657,20 @@ msgstr "您的游戏记录保存在此表中。切换到“任务”以查看解
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr "完成一项武器任务，然后在“添加/移除解锁项”中购买它。"
+msgstr "完成一项武器任务，然后在“添加或删除解锁项”中购买它。"
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
 msgstr ""
-"指针类会改变您的战斗方式。解锁一个，然后在“添加/移除解锁项”中购买它。"
+"指针类会改变您的战斗方式。解锁一个，然后在“添加或删除解锁项”中购买它。"
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
 msgstr ""
-"插件通过打开安装程序获取，能添加被动能力。完成任务，然后在“添加/移除解锁项”"
-"中购买。"
+"插件通过打开安装程序获取，能添加被动能力。完成任务，然后在“添加或删除解锁"
+"项”中购买。"
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
@@ -2681,7 +2682,7 @@ msgstr ""
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr "安全文件、战斗文件、特殊文件。解锁后，可在“添加/移除解锁项”中购买。"
+msgstr "安全文件、战斗文件、特殊文件。解锁后，可在“添加或删除解锁项”中购买。"
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
@@ -2696,7 +2697,7 @@ msgstr "先用每个策略完成协议，再用域策略完成协议。协议 5 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
 msgid "UI.task_virry_general"
-msgstr "一般里程碑。主要是豆豆奖励。"
+msgstr "一般事项的里程碑。主要是豆豆奖励。"
 
 #. Virry blurb - claimable rewards waiting
 #. source: Nice work! Claim your Beanz rewards by clicking a blue row.
@@ -2716,7 +2717,7 @@ msgstr "最高分"
 #. Profile stats - highest score tooltip
 #. source: Best run score recorded on this profile.
 msgid "UI.stat_highest_score_desc"
-msgstr "该配置文件中记录的最高得分。"
+msgstr "此用户配置中记录的最高得分。"
 
 #. Profile stats - time played
 #. source: Time Played
@@ -2746,7 +2747,7 @@ msgstr "死亡次数"
 #. Profile stats - deaths tooltip
 #. source: Times this profile has bluescreened.
 msgid "UI.stat_deaths_desc"
-msgstr "该配置文件蓝屏的次数。"
+msgstr "此用户配置蓝屏的次数。"
 
 #. Profile stats - runs finished
 #. source: Runs
@@ -2756,17 +2757,17 @@ msgstr "轮次"
 #. Profile stats - runs finished tooltip
 #. source: Runs started and finished on this profile.
 msgid "UI.stat_runs_desc"
-msgstr "该配置文件中开始和完成游戏轮次的数量。"
+msgstr "此用户配置中开始和完成了多少游戏轮次。"
 
 #. Profile stats - runs completed
 #. source: Completions
 msgid "UI.stat_runs_won"
-msgstr "完成"
+msgstr "完成次数"
 
 #. Profile stats - runs completed tooltip
 #. source: Runs that completed a Protocol.
 msgid "UI.stat_runs_won_desc"
-msgstr "完成协议的游戏轮次数量。"
+msgstr "有多少游戏轮次完成了协议。"
 
 #. Profile stats - critical hits
 #. source: Critical Hits
@@ -2882,19 +2883,19 @@ msgstr "成功解压的 Rar 压缩包数量。"
 #. source: .%s files opened
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_ext_opened"
-msgstr "已打开 .%s 文件"
+msgstr ".%s 文件开启数"
 
 #. Profile stats - file extension row tooltip
 #. source: %s files successfully opened.
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_ext_opened_desc"
-msgstr "成功打开 %s 文件。"
+msgstr "成功打开的 %s 文件数量。"
 
 #. Profile stats - named file opened row title
 #. source: %s opened
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_named_opened"
-msgstr "已打开 %s"
+msgstr "%s 开启数"
 
 #. Profile stats - coins collected
 #. source: Coin Collected
@@ -2944,7 +2945,7 @@ msgstr "完成任务"
 #. Profile stats - tasks completed tooltip
 #. source: Unlock tasks completed on this profile.
 msgid "UI.stat_tasks_desc"
-msgstr "此配置文件中完成的任务数量。"
+msgstr "此用户配置中完成的任务数量。"
 
 #. Profile stats - named clears row title
 #. source: %s clears
@@ -2962,32 +2963,32 @@ msgstr "%s 敌人清除数"
 #. source: %s completions
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_named_wins"
-msgstr "%s 完成"
+msgstr "%s 完成次数"
 
 #. Profile stats - weapon sheet row tooltip
 #. source: Enemies cleared with this weapon.
 msgid "UI.stat_weapon_row_desc"
-msgstr "用该武器清除的敌人数量。"
+msgstr "用此武器清除的敌人数量。"
 
 #. Profile stats - class sheet row tooltip
 #. source: Runs completed with this Cursor Class.
 msgid "UI.stat_class_row_desc"
-msgstr "使用此指针类完成的游戏轮次数量。"
+msgstr "使用此指针类完成了多少轮游戏。"
 
 #. Profile stats - policy sheet row tooltip
 #. source: Runs completed with this Policy.
 msgid "UI.stat_policy_row_desc"
-msgstr "使用此策略完成的游戏轮次数量。"
+msgstr "使用此策略完成了多少轮游戏。"
 
 #. Profile stats - enemy sheet row tooltip
 #. source: Times this enemy type has been cleared.
 msgid "UI.stat_enemy_row_desc"
-msgstr "该敌人被清除的次数。"
+msgstr "此敌人被清除的次数。"
 
 #. Profile stats - protocol completions row tooltip
 #. source: Runs completed on this Protocol.
 msgid "UI.stat_protocol_wins_desc"
-msgstr "在此协议上完成的游戏轮次数量。"
+msgstr "在此协议上完成了多少轮游戏。"
 
 #. Profile stats - overall sheet tab
 #. source: Overall
@@ -3032,7 +3033,7 @@ msgstr "爆头"
 #. Profile stats - headshots tooltip
 #. source: HaD: DoCK execute headshots landed.
 msgid "UI.stat_headshots_desc"
-msgstr "光荣使命打出的爆头次数。"
+msgstr "荣誉黎明3 打出的爆头次数。"
 
 #. Profile stats - installer skip or delete
 #. source: Plugins Skipped
@@ -3047,12 +3048,12 @@ msgstr "在安装程序中选择跳过或删除的次数。"
 #. Profile stats - shop upgrades bought
 #. source: Shop Purchases
 msgid "UI.stat_shop_purchases"
-msgstr "商店购入"
+msgstr "商店消费"
 
 #. Profile stats - shop purchases tooltip
 #. source: Upgrades bought from the Shop.
 msgid "UI.stat_shop_purchases_desc"
-msgstr "从商店购买的升级。"
+msgstr "从商店购买的升级数量。"
 
 #. Profile stats - spreadsheet sheet tab label
 #. source: Sheet %d
@@ -3095,17 +3096,17 @@ msgstr "下载"
 #. Add/Remove Unlocks - window title
 #. source: Add/Remove Unlocks
 msgid "UI.features_store_title"
-msgstr "添加/移除解锁项"
+msgstr "添加或删除解锁项"
 
 #. Add/Remove Unlocks - weapons tab intro
 #. source: Unlock new weapons to start with and choose during runs.
 msgid "UI.features_store_intro_weapons"
-msgstr "解锁新武器以作为初始武器，或在游戏过程中进行选用。"
+msgstr "解锁新武器以作为初始武器，或在游戏过程中选用。"
 
 #. Add/Remove Unlocks - cursors tab intro
 #. source: Unlock new Cursor Classes to start with.
 msgid "UI.features_store_intro_cursors"
-msgstr "解锁新的指针类，以在开始时使用。"
+msgstr "解锁新的指针类，在开始游戏时使用。"
 
 #. Add/Remove Unlocks - plugins tab intro
 #. source: Unlock new Plugins to install during runs.
@@ -3257,12 +3258,12 @@ msgstr "点击用 %d 个豆豆购买"
 #. UI (script-driven)
 #. source: Click to disable spawning
 msgid "UI.store_tooltip_owned_toggle"
-msgstr "点击以禁用生成"
+msgstr "点击以禁止在游戏中出现"
 
 #. UI (script-driven)
 #. source: Click to enable spawning
 msgid "UI.store_tooltip_disabled"
-msgstr "点击以启用生成"
+msgstr "点击以允许在游戏中出现"
 
 #. Policies locked until the chosen protocol or higher is completed once
 #. source: Complete %s or higher once to enable Policies.
@@ -3385,19 +3386,19 @@ msgstr "任务完成"
 #. source: %s Unlock
 #. Keep placeholders unchanged: %s
 msgid "UI.task_unlocks_category"
-msgstr "%s 解锁"
+msgstr "%s解锁"
 
 #. Task tooltip - category line with Beanz amount
 #. source: %s +%d Beanz
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.task_category_beanz"
-msgstr "%s + %z 个豆豆"
+msgstr "%s + %d 个豆豆"
 
 #. Weapon driver unlock requirement template
 #. source: Reach level {amount} with {weapon} in a single run
 #. Keep placeholders unchanged: {amount}, {weapon}
 msgid "UI.unlock_driver_req"
-msgstr "在一轮游戏中，使用{weapon}达到 {amount} 级。"
+msgstr "在一轮游戏中，使用 {weapon} 达到 {amount} 级。"
 
 #. Weapon driver unlock reward template
 #. source: {weapon} Drivers
@@ -3466,7 +3467,7 @@ msgstr "%s已达到 %d 级。请选择一个驱动。"
 #. Coin Collector notification
 #. source: Collecting coins
 msgid "UI.notif_coin_magnet"
-msgstr "收集硬币"
+msgstr "正在收集硬币"
 
 #. Stock auto-cashout notification with amount
 #. source: Investment withdrawn (%.2f)
@@ -3561,7 +3562,7 @@ msgstr ""
 "\n"
 "现在我们先选择{default}指针，随着游戏进程推进，会有更多指针解锁。\n"
 "\n"
-"请选择协议 1~3 之间的{difficulty}。\n"
+"建议您首先选择协议 1~3 之间的{difficulty}。\n"
 "\n"
 "完成一项协议将解锁{policies}，为您带来额外的挑战。\n"
 "\n"
@@ -3801,8 +3802,8 @@ msgstr ""
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
-"如果这是您首次看到此终止界面，请重启系统。\n"
-"如果界面再次出现此，内部模块可能被破坏。\n"
+"如果这是您首次看到此终止界面，请重启系统。如果此界面再次出现，内部模块可能"
+"被破坏。\n"
 "\n"
 "请验证已安装组件的完整性。异常行为可能表明内存已损坏、无效数据包注入、或存"
 "在未经授权的脚本执行。\n"
@@ -3818,7 +3819,7 @@ msgstr ""
 "内存缓存已刷新。\n"
 "\n"
 "\n"
-"按 {click} 继续，按 {tab} 查看属性信息。"
+"按 {click} 继续，按 {tab} 查看统计信息。"
 
 #. Browser address-bar caption
 #. source: Address
@@ -3828,7 +3829,7 @@ msgstr "地址"
 #. Browser Go button
 #. source: Go
 msgid "UI.browser_go"
-msgstr "前进"
+msgstr "转到"
 
 #. Installer Remove button
 #. source: Remove
@@ -3912,7 +3913,7 @@ msgstr "重选：%.2f 枚硬币"
 #. source: Beanz: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.beanz"
-msgstr "豆豆：%d"
+msgstr "%d 个豆豆"
 
 #. HUD - Coin label
 #. source: Coin: %.2f
@@ -4002,7 +4003,7 @@ msgstr "打开 {amount} 个文件"
 #. source: Open {amount} {file} files
 #. Keep placeholders unchanged: {amount}, {file}
 msgid "UI.unlock_open_file_type"
-msgstr "打开 {amount} 个 {files}"
+msgstr "打开 {amount} 个 {file} 文件"
 
 #. Unlock requirement - Download More RAM N times
 #. source: Download More RAM {amount} times
@@ -4244,27 +4245,27 @@ msgstr "暂时增加指针速度。"
 #. UI (script-driven)
 #. source: N2O
 msgid "UI.unlock_widget_nos_reward"
-msgstr "N2O"
+msgstr "氮气飞车"
 
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
 msgid "UI.unlock_widget_crime_desc"
-msgstr "为了硬币铤而走险，同时还要躲避追捕。"
+msgstr "为了硬币铤而走险，东躲西藏。"
 
 #. UI (script-driven)
 #. source: Criminal
 msgid "UI.unlock_widget_crime_reward"
-msgstr "罪犯"
+msgstr "侠盗"
 
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
 msgid "UI.unlock_widget_bullet_time_desc"
-msgstr "减慢周围的速度，以便更轻松地清除敌人。"
+msgstr "减慢周围的速度，更轻松地清除敌人。"
 
 #. UI (script-driven)
 #. source: Heaps of Pain
 msgid "UI.unlock_widget_bullet_time_reward"
-msgstr "苦痛成堆"
+msgstr "托马斯佩恩"
 
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
@@ -4586,7 +4587,7 @@ msgstr "使用{policy}完成任意协议"
 #. source: Complete any protocol with {policy} enabled.
 #. Keep placeholders unchanged: {policy}
 msgid "UI.unlock_policy_win_desc"
-msgstr "在启用{policy}的情况下完成任意协议。"
+msgstr "在启用{policy}策略时完成任意协议。"
 
 #. Protocol V policy unlock requirement template
 #. source: Complete Protocol V with {policy}
@@ -4598,7 +4599,7 @@ msgstr "使用{policy}完成协议 5"
 #. source: Complete Protocol V with {policy} enabled.
 #. Keep placeholders unchanged: {policy}
 msgid "UI.unlock_policy_v5_desc"
-msgstr "在启用{policy}的情况下完成协议 5。"
+msgstr "在启用{policy}策略时完成协议 5。"
 
 #. KeyBuy window and desktop icon title
 #. source: keyBuy
@@ -4910,7 +4911,7 @@ msgstr "双击购买"
 #. source: %s to Refund
 #. Keep placeholders unchanged: %s
 msgid "CLICKABLE.menu_shortcut_refund"
-msgstr "%s 以退款"
+msgstr "%s 以重置"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Fight
@@ -4945,7 +4946,7 @@ msgstr "双击播放"
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
 msgid "CLICKABLE.double_click_shuffle"
-msgstr "双击跳过曲目"
+msgstr "双击切换曲目"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
@@ -5077,7 +5078,7 @@ msgstr "本轮游戏伤害：%.0f"
 #. source: DPS: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.run_dps"
-msgstr "DPS：%.1f"
+msgstr "秒伤：%.1f"
 
 #. Stat tooltip
 #. source: Hits: %d
@@ -5118,7 +5119,7 @@ msgstr "驱动"
 #. source: Rank: %d/%d
 #. Keep placeholders unchanged: %d
 msgid "META.rank"
-msgstr "排名"
+msgstr "等级 %d/%d"
 
 #. Meta upgrade menu
 #. source: MAX RANK
@@ -5177,22 +5178,22 @@ msgstr "LemWire.exe"
 #. Desktop icon tooltip
 #. source: Installer.pgi
 msgid "CLICKABLE.filename.installer"
-msgstr "Installer.pgi"
+msgstr "安装程序.pgi"
 
 #. Desktop icon tooltip
 #. source: cracked_installer.pgi
 msgid "CLICKABLE.filename.cracked_installer"
-msgstr "installer_已破解.pgi"
+msgstr "安装程序_已破解.pgi"
 
 #. Desktop icon tooltip
 #. source: LEGENDARY_SETUP.exe
 msgid "CLICKABLE.filename.legendary_installer"
-msgstr "LEGENDARY_SETUP.exe"
+msgstr "金色传说_安装程序.exe"
 
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
 msgid "CLICKABLE.filename.morgan_av"
-msgstr "MorganAV.pgi"
+msgstr "Morgan杀毒.pgi"
 
 #. Run stats panel row
 #. source: Difficulty
@@ -5365,12 +5366,12 @@ msgstr "上个战斗文件夹中获得的豆豆数量，包括安全文件夹奖
 #. Run and last-round DPS label
 #. source: DPS
 msgid "RUNSTAT.dps"
-msgstr "DPS"
+msgstr "秒伤"
 
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
 msgid "RUNSTAT.dps_desc"
-msgstr "本轮游戏中每秒造成的伤害，仅统计战斗文件夹。"
+msgstr "本轮游戏中平均每秒造成的伤害，仅统计战斗文件夹。"
 
 #. Run damage dealt tooltip
 #. source: Total damage dealt this run.
@@ -5395,7 +5396,7 @@ msgstr "本轮游戏中完成的次要任务数量。"
 #. Last round DPS tooltip
 #. source: Damage per second in the last Battle Folder.
 msgid "RUNSTAT.last_round_dps_desc"
-msgstr "上个战斗文件夹中每秒造成的伤害。"
+msgstr "上个战斗文件夹中平均每秒造成的伤害。"
 
 #. Last round damage dealt tooltip
 #. source: Damage dealt in the last Battle Folder.
@@ -5563,7 +5564,7 @@ msgstr "扩展表"
 #. Weapon driver / overclock card - description (extended_table)
 #. source: Attack Speed no longer makes this weapon expire sooner.
 msgid "DRIVER.extended_table.description"
-msgstr "攻击速度不再导致该武器提前失效。"
+msgstr "攻击速度不再导致此武器提前失效。"
 
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
@@ -6265,7 +6266,7 @@ msgstr ""
 #. Scene label
 #. screens: zip_window.tscn
 msgid "Progress will reset if area is abandoned"
-msgstr "如果离开该区域，进度将会重置"
+msgstr "如果离开此区域，进度将会重置"
 
 #. Scene label
 #. screens: main.tscn
@@ -6320,7 +6321,7 @@ msgstr "未解锁武器 - 即将到来"
 #. Scene label
 #. screens: stat_list.tscn
 msgid "StatsManager V0.1b"
-msgstr " 属性管理器 V0.1b"
+msgstr "属性管理器 V0.1b"
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6371,7 +6372,7 @@ msgstr ""
 "然而我很抱歉，这个胜利画面如此乏味且缺乏创意。您值得拥有更好的，而且在正式"
 "版中您一定会得到更好的。\n"
 "\n"
-"与此同时，不妨尝试难度更高的挑战，花一些豆豆进行升级，试试不同的配置。\n"
+"与此同时，不妨尝试难度更高的挑战，花一些豆豆来升级，试试不同的配置。\n"
 "\n"
 "如果你喜欢这个试玩版，一定要把它加入愿望单，或者在 Steam 上关注它——未来还有"
 "更多精彩内容！"
@@ -6435,7 +6436,7 @@ msgstr "升级"
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Statistics"
-msgstr "统计"
+msgstr "属性"
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6489,7 +6490,7 @@ msgstr "升级管理器 2003 rc2"
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "Refund All"
-msgstr "全部"
+msgstr "全部重置"
 
 #. Scene label
 #. screens: notif_bubble.tscn
