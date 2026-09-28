@@ -18,12 +18,12 @@ msgstr "Ladrillo"
 
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
-#, fuzzy
 msgid "CLASS.brick.description"
 msgstr ""
 "Añade +40 PS máxima.\n"
 "Añade +12 de Armadura.\n"
 "Velocidad del cursor 0,8x.\n"
+"Multiplica el daño 0,85x.\n"
 "Multiplica el daño 1,1x cuando te hacen daño (Dura 8s, se combina hasta 3 veces)."
 
 #. Class select - name (default)
@@ -55,7 +55,7 @@ msgstr ""
 #. Class select - name (vector)
 #. source: Vector
 msgid "CLASS.vector.name"
-msgstr "Vector"
+msgstr ""
 
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
@@ -124,7 +124,7 @@ msgstr "Una dificultad liosa, inconsistente e impredecible. No sabría decirte q
 #. Folder evolution mode - name (linear)
 #. source: Linear
 msgid "EVO.linear.name"
-msgstr "Linear"
+msgstr ""
 
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
@@ -134,7 +134,7 @@ msgstr "Un flujo consistente de cada vez más enemigos que van saliendo con el t
 #. Folder evolution mode - name (variable)
 #. source: Variable
 msgid "EVO.variable.name"
-msgstr "Variable"
+msgstr ""
 
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
@@ -283,7 +283,7 @@ msgstr "Edición empresarial"
 msgid "PLUGIN.big_hp_regen_boost.description"
 msgstr ""
 "Añade +64 PS Máxima.\n"
-"Añade +12 de Regén PS. "
+"Añade +12 de Regén PS."
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -1415,7 +1415,7 @@ msgstr "Burbujas"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr "Burbujas gigantes que flotan provocando cargas de infección a los enemigos "
+msgstr "Burbujas gigantes que flotan provocando cargas de infección a los enemigos"
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -2291,12 +2291,12 @@ msgstr "¡Ve al archivo de Jefe!"
 #. Upgrade screen - title
 #. source: Level Up!
 msgid "UI.level_up"
-msgstr "¡Subes de nivel! "
+msgstr "¡Subes de nivel!"
 
 #. UI (script-driven)
 #. source: Collecting any loose Data.
 msgid "UI.collecting_data"
-msgstr "Coleccionado datos sueltos. "
+msgstr "Coleccionado datos sueltos."
 
 #. Login screen - create profile entry name
 #. source: New user
@@ -2628,6 +2628,46 @@ msgstr "Perfil.xls - Antivirus Survivors"
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
 msgstr "Tareas y Estadísticas"
+
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Créditos"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Desarrollo, Arte, Música... etc"
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Producción"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Animador (Virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "QA de la comunidad"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Traductores de la comunidad"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Agradecimientos especiales"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr "Muchísimas gracias a todos por ayudarme a conseguir este sueño. ¡Os quiero a todos! -Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
@@ -4553,7 +4593,8 @@ msgid "POLICY.open_relay.description"
 msgstr "Cada archivo contiene spam"
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
+#, fuzzy
 msgid "POLICY.default_domain_policy.name"
 msgstr "Política de dominio predeterminada"
 
@@ -4659,9 +4700,7 @@ msgstr "Mejorado"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr ""
-"Los comprobadores de salud echan más corazones por partida.\n"
-"Una vez por carpeta segura."
+msgstr "Los comprobadores de salud echan más corazones por partida."
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -5631,7 +5670,7 @@ msgstr "Espuma"
 msgid "DRIVER.bubbles_suds.description"
 msgstr ""
 "Cuando rebota: muta en dos copias\n"
-"Las copias solo se mutan una vez "
+"Las copias solo se mutan una vez"
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5677,7 +5716,7 @@ msgstr "Zona de trabajo"
 msgid "DRIVER.cone_workzone.description"
 msgstr ""
 "Añade +1 cono.\n"
-"Incrementa el poder 30% "
+"Incrementa el poder 30%"
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -6217,7 +6256,7 @@ msgstr ""
 #. Scene label
 #. screens: spam_ad_10.tscn
 msgid "1,000,0000 th VISTOR this WEEK!!! PRIZE WON!"
-msgstr "eres el visitante 100,00,000 eSTA SEMANA!!! HAS GANADO! "
+msgstr "eres el visitante 100,00,000 eSTA SEMANA!!! HAS GANADO!"
 
 #. Scene label
 #. screens: vapor_exe.tscn
