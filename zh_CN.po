@@ -1357,7 +1357,7 @@ msgstr "最大生命值增加 +{percent} 点。‪"
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "所有武器的击退、灼烧、感染、卡顿等效果增加 +{percent}%。"
+msgstr "所有武器的击退、灼烧、感染、卡顿等特性的效果增加 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
