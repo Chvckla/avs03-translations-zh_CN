@@ -4366,7 +4366,7 @@ msgstr "Plavi Ekran Blizak"
 #. Optional extra difficulty policy - description (blue_screen_imminent)
 #. source: The post-round escape timer is halved.
 msgid "POLICY.blue_screen_imminent.description"
-msgstr "Brojač za  nakon"
+msgstr "Vrijeme dostupno za dolazak u sigurnu mapu prepolovljeno je."
 
 #. Optional extra difficulty policy - name (trial_version)
 #. source: Trial Version
@@ -4805,7 +4805,7 @@ msgstr "Kliknite dvaput za Reprodukciju"
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
 msgid "CLICKABLE.double_click_shuffle"
-msgstr ""
+msgstr "Kliknite dvaput za sljedeću pjesmu"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
@@ -4853,6 +4853,8 @@ msgstr "Kliknite dvaput za promjenu jezika"
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
 msgstr ""
+"Kliknite dvaput za otvaranje poveznicu[br]Prijevode u igri velikodušno su "
+"omogućili drugi igrači."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5330,7 +5332,7 @@ msgstr "Povratne informacije"
 
 #. Scene label
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. Scene label
 msgid "Discord"
@@ -5339,6 +5341,10 @@ msgstr ""
 #. Scene label
 msgid "Translations GitHub"
 msgstr ""
+
+#. Scene label
+msgid "Translations GitHub"
+msgstr "GitHub za prijevode"
 
 #. avs03
 msgid "avs03.com"
@@ -6398,3 +6404,108 @@ msgstr "Prozor"
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
 msgstr "Antivirusni Program Survivori 2003. Profesionalan"
+
+#~ msgid "Wishlist"
+#~ msgstr "Lista želja"
+
+#~ msgid "UI.login_demo_detail"
+#~ msgstr "%d Beanz, %d završetka"
+
+#~ msgid "UI.admin_mouse_tooltip_locked"
+#~ msgstr "Završi jednu igru da biste odključali Administratorska prava."
+
+#~ msgid "UI.tutorial_2_title"
+#~ msgstr "Za početak, krenimo u akciju."
+
+#~ msgid "UI.tutorial_3_title"
+#~ msgstr ""
+#~ "Za početak možeš odabrati {class} i\n"
+#~ "{difficulty}."
+
+#~ msgid "UI.tutorial_4_title"
+#~ msgstr "Za početak možeš odabrati jedno početno oružje."
+
+#~ msgid "UI.tutorial_5_title"
+#~ msgstr "Cilj igre je preživjeti."
+
+#~ msgid "UI.tutorial_6_title"
+#~ msgstr "Kako bi preživjeli –"
+
+#~ msgid "UI.tutorial_7_title"
+#~ msgstr ""
+#~ "Zaradite Beanz za čišćenje neprijatelja i dolazak do {safe} za svaku "
+#~ "rundu koju preživite."
+
+#~ msgid "UI.tutorial_8_title"
+#~ msgstr "To je sve za sada!"
+
+#~ msgid "Skips installing plugin and removes it from selection pool."
+#~ msgstr "Preskače instaliranje dodatka i uklanja ga iz popisa odabira."
+
+#~ msgid "Skips installing plugin and refunds Key."
+#~ msgstr "Preskače instaliranje dodatka i vraća Ključa."
+
+#~ msgid "Installs plugin."
+#~ msgstr "Instalira dodatka"
+
+#~ msgid "Action"
+#~ msgstr "Akcija"
+
+#~ msgid "Folder Difficulty"
+#~ msgstr "Težina Foldere"
+
+#~ msgid "Starter Weapon"
+#~ msgstr "Početno Oružje"
+
+#~ msgid "UI.cosmetic_wallpaper_card"
+#~ msgstr "Card Wallpaper"
+
+#~ msgid "UI.wallpaper_bless"
+#~ msgstr "Bless"
+
+#~ msgid "UI.wallpaper_card"
+#~ msgstr "Card"
+
+#~ msgid "DRIVER.long_range.name"
+#~ msgstr "Long Range"
+
+#~ msgid "DRIVER.long_range.description"
+#~ msgstr "Increase launch force and attack range."
+
+#~ msgid "DRIVER.blatand_radio.name"
+#~ msgstr "Class 1 Radio"
+
+#~ msgid "DRIVER.blatand_radio.description"
+#~ msgstr ""
+#~ "Increase attack range.\n"
+#~ "Increase Size +25%."
+
+#~ msgid "View"
+#~ msgstr "Prikaz"
+
+#~ msgid "Help"
+#~ msgstr "Pomoć"
+
+#~ msgid "Validating cache files..."
+#~ msgstr "Valjadiranje cache datoteke…"
+
+#~ msgid "Edit"
+#~ msgstr "Uredi"
+
+#~ msgid "Plugin Suite Installation"
+#~ msgstr "Instalacija paketa dodataka"
+
+#~ msgid "Please wait..."
+#~ msgstr "Molim pričekaj…"
+
+#~ msgid "Remove"
+#~ msgstr "Ukloni"
+
+#~ msgid "Skip"
+#~ msgstr "Preskoči"
+
+#~ msgid "Pause menu"
+#~ msgstr "Pauza"
+
+#~ msgid "BigWave 2003 Edition"
+#~ msgstr "BigWave 2003. izdanje"

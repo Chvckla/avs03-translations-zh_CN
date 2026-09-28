@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003"
+"Project-Id-Version: Antivirus Survivors 2003Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -15,7 +20,11 @@ msgstr "Ladrillo"
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 #, fuzzy
 msgid "CLASS.brick.description"
-msgstr "Añade +40 PS máxima.\nAñade +12 de Armadura.\nVelocidad del cursor 0,8x.\nMultiplica el daño 1,1x cuando te hacen daño (Dura 8s, se combina hasta 3 veces)."
+msgstr ""
+"Añade +40 PS máxima.\n"
+"Añade +12 de Armadura.\n"
+"Velocidad del cursor 0,8x.\n"
+"Multiplica el daño 1,1x cuando te hacen daño (Dura 8s, se combina hasta 3 veces)."
 
 #. Class select - name (default)
 #. source: Default
@@ -25,7 +34,9 @@ msgstr "Predeterminado"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr "No posee bonificaciones o desventajas.\nCursor base balanceado."
+msgstr ""
+"No posee bonificaciones o desventajas.\n"
+"Cursor base balanceado."
 
 #. Class select - name (null)
 #. source: Null
@@ -35,17 +46,26 @@ msgstr "Nulo"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr "Reduce la vida máxima en 25 PS.\nAñade 8 de pérdida de paquetes.\nMultiplica la Suerte 1,5x\nMultiplica el Daño 0,9x."
+msgstr ""
+"Reduce la vida máxima en 25 PS.\n"
+"Añade 8 de pérdida de paquetes.\n"
+"Multiplica la Suerte 1,5x\n"
+"Multiplica el Daño 0,9x."
 
 #. Class select - name (vector)
 #. source: Vector
 msgid "CLASS.vector.name"
-msgstr ""
+msgstr "Vector"
 
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr "Multiplica la velocidad del cursor 1,25x\nAñade 15 de Pérdida de paquetes\nReduce los PS máximos en 25\nMultiplica el Daño 0,9x\nMultiplica la velocidad del cursor 1,25x y la Velocidad de Refresco 1,2x al perder un paquete (Dura 4s)"
+msgstr ""
+"Multiplica la velocidad del cursor 1,25x\n"
+"Añade 15 de Pérdida de paquetes\n"
+"Reduce los PS máximos en 25\n"
+"Multiplica el Daño 0,9x\n"
+"Multiplica la velocidad del cursor 1,25x y la Velocidad de Refresco 1,2x al perder un paquete (Dura 4s)"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -55,7 +75,12 @@ msgstr "Punto de depuración"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr "Incrementa la probabilidad de Crítico en +12%.\nMultiplica el Daño Crítico 1,25x\nReduce la PS máxima en -15.\nMultiplica la velocidad del cursor en 0,9x.\nMultiplica el Daño en 0,92x."
+msgstr ""
+"Incrementa la probabilidad de Crítico en +12%.\n"
+"Multiplica el Daño Crítico 1,25x\n"
+"Reduce la PS máxima en -15.\n"
+"Multiplica la velocidad del cursor en 0,9x.\n"
+"Multiplica el Daño en 0,92x."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -65,7 +90,11 @@ msgstr "Hilo"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr "Multiplica la velocidad de procesado 1,3x.\nMultiplica la velocidad de refresco 1,12x.\nMultiplica la ganancia de EXP 1,08x.\nMultiplica el Daño 0,85x."
+msgstr ""
+"Multiplica la velocidad de procesado 1,3x.\n"
+"Multiplica la velocidad de refresco 1,12x.\n"
+"Multiplica la ganancia de EXP 1,08x.\n"
+"Multiplica el Daño 0,85x."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -75,7 +104,12 @@ msgstr "Administrador"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr "Empieza con +1 clave.\nMultiplica la ganancia de Dinero 1,3x\nDescuento en la tienda de un 10%.\nMultiplica la PS máxima 0,9x.\nMultiplica el daño 0,85x."
+msgstr ""
+"Empieza con +1 clave.\n"
+"Multiplica la ganancia de Dinero 1,3x\n"
+"Descuento en la tienda de un 10%.\n"
+"Multiplica la PS máxima 0,9x.\n"
+"Multiplica el daño 0,85x."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -90,7 +124,7 @@ msgstr "Una dificultad liosa, inconsistente e impredecible. No sabría decirte q
 #. Folder evolution mode - name (linear)
 #. source: Linear
 msgid "EVO.linear.name"
-msgstr ""
+msgstr "Linear"
 
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
@@ -100,7 +134,7 @@ msgstr "Un flujo consistente de cada vez más enemigos que van saliendo con el t
 #. Folder evolution mode - name (variable)
 #. source: Variable
 msgid "EVO.variable.name"
-msgstr ""
+msgstr "Variable"
 
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
@@ -225,7 +259,9 @@ msgstr "IRQ Hardware"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr "Añade +5 de Armadura:\nAñade +25 de Pérdida de paquetes cuando recibes Daño (Dura 10s). "
+msgstr ""
+"Añade +5 de Armadura:\n"
+"Añade +25 de Pérdida de paquetes cuando recibes Daño (Dura 10s)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -245,7 +281,9 @@ msgstr "Edición empresarial"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr "Añade 64 PS Máxima.\nAñade 12 de Regén PS. "
+msgstr ""
+"Añade +64 PS Máxima.\n"
+"Añade +12 de Regén PS. "
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -265,7 +303,7 @@ msgstr "Autoreproducción"
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
 msgid "PLUGIN.blast_on_file_open.description"
-msgstr "25% de probabilidad de explotar cuando abres un Archivo. "
+msgstr "25% de probabilidad de explotar cuando abres un Archivo."
 
 #. Plugin - name (chance_defrag)
 #. source: Disk Cleanup
@@ -275,7 +313,7 @@ msgstr "Liberador de espacio en disco"
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
 msgid "PLUGIN.chance_defrag.description"
-msgstr "Probabilidad del 10% de Desfragmentar cada 30s. "
+msgstr "Probabilidad del 10% de Desfragmentar cada 30s."
 
 #. Plugin - name (coin_boost)
 #. source: Coin Gain Boost
@@ -285,7 +323,7 @@ msgstr "Aumento de la ganancia de dinero"
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr "Multiplica la ganancia de Dinero 1,1x "
+msgstr "Multiplica la ganancia de Dinero 1,1x"
 
 #. Plugin - name (coin_drop_boost)
 #. source: Shared Folders
@@ -325,7 +363,9 @@ msgstr "Batería crítica"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr "Incrementa la velocidad del cursor en 10%\nIncrementa la velocidad del cursor en 30% cuando recibes daño (durante 10s)"
+msgstr ""
+"Incrementa la velocidad del cursor en 10%\n"
+"Incrementa la velocidad del cursor en 30% cuando recibes daño (durante 10s)"
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -345,7 +385,9 @@ msgstr "Trayectoria profesional"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr "Incrementa el daño de las armas un 2% por nivel del jugador.\nReduce 1 PS por nivel del jugador."
+msgstr ""
+"Incrementa el daño de las armas un +3% por nivel del jugador.\n"
+"Reduce -1 PS por nivel del jugador."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -355,7 +397,7 @@ msgstr "Línea roja"
 #. Plugin - description (damage_missing_hp)
 #. source: Increase Weapon Damage +1% per 1% missing HP.
 msgid "PLUGIN.damage_missing_hp.description"
-msgstr "Incrementa el daño de las armas un 1% por cada 1% de PS que falte."
+msgstr "Incrementa el daño de las armas un +1% por cada 1% de PS que falte."
 
 #. Plugin - name (damage_speed_crit)
 #. source: Performance Options
@@ -365,7 +407,11 @@ msgstr "Opciones de rendimiento"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr "Incrementa el daño de las armas en 10%\nReduce el enfriamiento en 10%\nIncrementa la probabilidad de crítico en 5%\nIncrementa el daño crítico en 15%."
+msgstr ""
+"Incrementa el daño de las armas en +10%\n"
+"Reduce el enfriamiento en +10%\n"
+"Incrementa la probabilidad de crítico en +5%\n"
+"Incrementa el daño crítico en +15%."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -405,7 +451,7 @@ msgstr "Aumento de PS"
 #. Plugin - description (hp_boost)
 #. source: Add +15 Max HP.
 msgid "PLUGIN.hp_boost.description"
-msgstr "Añade 15 PS."
+msgstr "Añade +15 PS."
 
 #. Plugin - name (hp_on_heal)
 #. source: AutoRecover
@@ -445,7 +491,9 @@ msgstr "Suertudo"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr "Incrementa Suerte en 12%\nIncrementa Suerte en 25% en renovaciones (durante 10s)."
+msgstr ""
+"Incrementa Suerte en +12%\n"
+"Incrementa Suerte en +25% en renovaciones (durante 10s)."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -455,7 +503,7 @@ msgstr "Carpetas comprimidas"
 #. Plugin - description (luck_zip_boost)
 #. source: Increase Luck +3% when successfully opening a Zip File.
 msgid "PLUGIN.luck_zip_boost.description"
-msgstr "Incrementa Suerte en 3% cuando abres un fichero Zip correctamente."
+msgstr "Incrementa Suerte en +3% cuando abres un fichero Zip correctamente."
 
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
@@ -505,7 +553,7 @@ msgstr "Aumento de la regeneración de salud"
 #. Plugin - description (regen_boost)
 #. source: Add +5 Health Regen.
 msgid "PLUGIN.regen_boost.description"
-msgstr "Añade 5 Regén salud."
+msgstr "Añade +5 Regén salud."
 
 #. Plugin - name (shop_discount_10)
 #. source: Coupon Code
@@ -535,7 +583,9 @@ msgstr "Despacio pero fuerte"
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr "Multiplica el daño de las armas 1,25x.\nReduce la velocidad del cursor en 10%"
+msgstr ""
+"Multiplica el daño de las armas 1,25x.\n"
+"Reduce la velocidad del cursor en 10%"
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -545,7 +595,9 @@ msgstr "Recuperación inteligente"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr "Añade 10 PS Máx\nCura el 25% de tu salud cuando abres la Carpeta Segura"
+msgstr ""
+"Añade 10 PS Máx\n"
+"Cura el 25% de tu salud cuando abres la Carpeta Segura"
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -575,7 +627,7 @@ msgstr "Base de conocimiento"
 #. Plugin - description (xp_file_open)
 #. source: Gain +5 EXP when opening a File.
 msgid "PLUGIN.xp_file_open.description"
-msgstr "Gana 5 EXP cuando abres un Archivo."
+msgstr "Gana +5 EXP cuando abres un Archivo."
 
 #. Plugin - name (xp_gain_boost)
 #. source: EXP Gain Boost
@@ -595,7 +647,9 @@ msgstr "Léeme"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr "Incrementa la ganancia de EXP en 10%.\nGana 4 EXP cuando te hacen daño."
+msgstr ""
+"Incrementa la ganancia de EXP en +10%.\n"
+"Gana 4 EXP cuando te hacen daño."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -605,7 +659,7 @@ msgstr "Antivirus Koala"
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr "Incrementa la dificultad en 3 puntos para el resto de la partida. Aparece un enemigo Plus! más en cada ronda."
+msgstr "Incrementa la dificultad el resto de la partida. Aparece +1 enemigo Plus! más en cada ronda."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -644,9 +698,8 @@ msgstr "Fotograma parado"
 
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
-#, fuzzy
 msgid "PLUGIN.still_frame.description"
-msgstr "Incrementa el daño de las armas un 15% cuando estás quieto."
+msgstr "Incrementa el daño de las armas un +5% por segundo cuando estás quieto, hasta un +15%."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -666,7 +719,9 @@ msgstr "Aceleración de actualizaciones"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr "Incrementa la velocidad de refresco un 50%.\nReduce la velocidad del cursor un 15%."
+msgstr ""
+"Incrementa la velocidad de refresco un +50%.\n"
+"Reduce la velocidad del cursor un -15%."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -676,7 +731,7 @@ msgstr "Daño de cartera"
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
 msgid "PLUGIN.wallet_damage.description"
-msgstr "Incrementa el daño un 1% por cada 10 de Dinero que tengas."
+msgstr "Incrementa el daño un +1% por cada 10 de Dinero que tengas."
 
 #. Plugin - name (first_strike)
 #. source: First Strike
@@ -686,7 +741,7 @@ msgstr "Primera sangre"
 #. Plugin - description (first_strike)
 #. source: Increase Damage +25% against enemies above 90% HP.
 msgid "PLUGIN.first_strike.description"
-msgstr "Incrementa el daño un 25% contra enemigos que tengan más del 90% de PS."
+msgstr "Incrementa el daño un +25% contra enemigos que tengan más del 90% de PS."
 
 #. Plugin - name (crit_blast)
 #. source: Crit Blast
@@ -726,7 +781,9 @@ msgstr "Megacrítico"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr "Incrementa la probabilidad de crítico un 40%.\nSi la probabilidad de crítico es más de 100%, se puede hacer megacrítico con doble de daño."
+msgstr ""
+"Incrementa la probabilidad de crítico un +40%.\n"
+"Si la probabilidad de crítico es más de 100%, se puede hacer megacrítico con doble de daño."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -736,7 +793,9 @@ msgstr ""
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr "Multiplica la cantidad de disparos 1,5x.\nMultiplica el daño 0,75x."
+msgstr ""
+"Multiplica la cantidad de disparos 1,5x.\n"
+"Multiplica el daño 0,75x."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -746,7 +805,7 @@ msgstr "Tanque"
 #. Plugin - description (tank_core)
 #. source: Increase Weapon Damage +20% per 100 Max HP.
 msgid "PLUGIN.tank_core.description"
-msgstr "Incrementa el daño un 20% por cada 100 de PS máxima."
+msgstr "Incrementa el daño un +20% por cada 100 de PS máxima."
 
 #. Plugin - name (service_pack)
 #. source: Service Pack
@@ -786,7 +845,9 @@ msgstr "Administrador de tareas"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr "Multiplica la tasa de refresco de disparo 2,0x.\nMultiplica el tamaño de disparo 0,75x."
+msgstr ""
+"Multiplica la tasa de refresco de disparo 2,0x.\n"
+"Multiplica el tamaño de disparo 0,75x."
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
@@ -796,7 +857,9 @@ msgstr ""
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr "Multiplica las recompensas de archivos Zip y descargas de RAM 2,0x.\nReduce las probabilidades de apertura de estos."
+msgstr ""
+"Multiplica las recompensas de archivos Zip y descargas de RAM 2,0x.\n"
+"Reduce las probabilidades de apertura de estos."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -806,7 +869,9 @@ msgstr "Restaurar sistema"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr "Cuando mueres, te curas un 50% en vez de tirar pantalla azul.\nOcurre una vez por instalación."
+msgstr ""
+"Cuando mueres, te curas un 50% en vez de tirar pantalla azul.\n"
+"Ocurre una vez por instalación."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -826,7 +891,7 @@ msgstr "Catálogo de software"
 #. Plugin - description (extra_shop_offer)
 #. source: Add +1 upgrade to the Shop.
 msgid "PLUGIN.extra_shop_offer.description"
-msgstr "Añade 1 mejora a la tienda."
+msgstr "Añade +1 mejora a la tienda."
 
 #. Plugin - name (extra_upgrade_choice)
 #. source: Optional Components
@@ -836,7 +901,7 @@ msgstr "Componentes adicionales"
 #. Plugin - description (extra_upgrade_choice)
 #. source: Add +1 upgrade choice on Level Up.
 msgid "PLUGIN.extra_upgrade_choice.description"
-msgstr "Añade 1 opción de mejora cuando subes de nivel."
+msgstr "Añade +1 opción de mejora cuando subes de nivel."
 
 #. Difficulty protocol - name (protocol_1)
 #. source: Protocol I
@@ -1096,7 +1161,7 @@ msgstr "Velocidad de {weapon}"
 #. source: Increases {weapon} attack speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.speed.description"
-msgstr "Incrementa la velocidad de ataque de {weapon} por {percent}%"
+msgstr "Incrementa la velocidad de ataque de {weapon} por +{percent}%"
 
 #. Weapon upgrade card - refresh/cooldown stat title
 #. source: {weapon} Refresh
@@ -1108,7 +1173,7 @@ msgstr "Enfriamiento de {weapon}"
 #. source: Increases {weapon} refresh speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.refresh.description"
-msgstr "Incrementa el refresco de ataque de {weapon} por {percent}%"
+msgstr "Incrementa el refresco de ataque de {weapon} por +{percent}%"
 
 #. Weapon upgrade card - size stat title
 #. source: {weapon} Size
@@ -1120,7 +1185,7 @@ msgstr "Tamaño de {weapon}"
 #. source: Increases {weapon} size by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.size.description"
-msgstr "Incrementa el tamaño de {weapon} por {percent}%"
+msgstr "Incrementa el tamaño de {weapon} por +{percent}%"
 
 #. Weapon upgrade card - spawn amount stat title
 #. source: {weapon} Amount
@@ -1132,7 +1197,7 @@ msgstr "Cantidad de {weapon}"
 #. source: Adds +{percent}% chance of additional {spawn_noun}.
 #. Keep placeholders unchanged: {percent}, {spawn_noun}
 msgid "WEAPON_UPGRADE.amount.description"
-msgstr "Aumenta la probabilidad en {percent}% de generar mas {spawn_noun}"
+msgstr "Aumenta la probabilidad en +{percent}% de generar mas {spawn_noun}"
 
 #. Weapon upgrade card - power stat title
 #. source: {weapon} Power
@@ -1144,25 +1209,25 @@ msgstr "Poder de {weapon}"
 #. source: Increases {weapon} Repel effect by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.repel.description"
-msgstr "Incrementa la repulsión de {weapon} por {percent}%"
+msgstr "Incrementa la repulsión de {weapon} por +{percent}%"
 
 #. Weapon upgrade card - heat stacks power description
 #. source: Increases {weapon} Heat Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.heat.description"
-msgstr "Incrementa las acumulaciones de calor de {weapon} por {percent}%"
+msgstr "Incrementa las acumulaciones de calor de {weapon} por +{percent}%"
 
 #. Weapon upgrade card - lag stacks power description
 #. source: Increases {weapon} Lag Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.lag.description"
-msgstr "Incrementa las acumulaciones de lag de {weapon} por {percent}%"
+msgstr "Incrementa las acumulaciones de lag de {weapon} por +{percent}%"
 
 #. Weapon upgrade card - infect stacks power description
 #. source: Increases {weapon} Infect Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.infect.description"
-msgstr "Incrementa las acumulaciones de infección de {weapon} por {percent}%"
+msgstr "Incrementa las acumulaciones de infección de {weapon} por +{percent}%"
 
 #. Weapon amount upgrade - phrase after "additional" for AVD
 #. source: logos spawning
@@ -1228,109 +1293,109 @@ msgstr "cantidad de cartas adicionales"
 #. source: Increases damage resistance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_armor.description"
-msgstr "Incrementa la resistencia al daño un {percent}%"
+msgstr "Incrementa la resistencia al daño un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_coin_gain)
 #. source: Increases coin gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_coin_gain.description"
-msgstr "Incrementa la ganancia de monedas por {percent}%"
+msgstr "Incrementa la ganancia de monedas por +{percent}%"
 
 #. Upgrade card - description (upgrade_player_crit_chance)
 #. source: Increases crit hit chance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_chance.description"
-msgstr "Incrementa la probabilidad de dar un golpe crítico un {percent}%"
+msgstr "Incrementa la probabilidad de dar un golpe crítico un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_crit_damage_multi)
 #. source: Increases crit hit damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
-msgstr "Incrementa el daño de un golpe crítico un {percent}%"
+msgstr "Incrementa el daño de un golpe crítico un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_damage_multi)
 #. source: Increases weapon damage multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_damage_multi.description"
-msgstr "Incrementa el daño de las armas un {percent}%"
+msgstr "Incrementa el daño de las armas un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_dodge)
 #. source: Increases chance of dodging damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_dodge.description"
-msgstr "Probabilidad de esquivar todo el daño un {percent}%"
+msgstr "Probabilidad de esquivar todo el daño un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_exp_gain)
 #. source: Increases EXP gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_exp_gain.description"
-msgstr "Incrementa la cantidad de EXP recibida en un {percent}%"
+msgstr "Incrementa la cantidad de EXP recibida en un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_health_regen)
 #. source: Increases Health Regen by +{percent} every 20s.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_health_regen.description"
-msgstr "Incrementa la cantidad de regén de vida cada 20s un {percent}%"
+msgstr "Incrementa la cantidad de regén de vida cada 20s un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_luck)
 #. source: Increases luck by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_luck.description"
-msgstr "Incrementa la suerte un {percent}%"
+msgstr "Incrementa la suerte un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_magnetism_multi)
 #. source: Increases player magnetism by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_magnetism_multi.description"
-msgstr "Incrementa magnetismo un {percent}%"
+msgstr "Incrementa magnetismo un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_max_health)
 #. source: Increases Max HP by +{percent}.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_max_health.description"
-msgstr "Incrementa la vida máxima un {percent}%"
+msgstr "Incrementa la vida máxima un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "Incrementa el poder de repulsión, calor, infectar y Lag de todas las armas un {percent}%"
+msgstr "Incrementa el poder de repulsión, calor, infectar y Lag de todas las armas un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_proc_speed.description"
-msgstr "Incrementa la velocidad de apertura de archivos un {percent}%"
+msgstr "Incrementa la velocidad de apertura de archivos un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_refresh_multi)
 #. source: Increases weapon refresh multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_refresh_multi.description"
-msgstr "Incrementa el refresco de las armas un {percent}%"
+msgstr "Incrementa el refresco de las armas un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_speed)
 #. source: Increases movement speed by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_speed.description"
-msgstr "Incrementa la velocidad de movimiento un {percent}%"
+msgstr "Incrementa la velocidad de movimiento un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_weap_amount)
 #. source: Adds +{percent}% chance of additional weapon spawns.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_amount.description"
-msgstr "Añade un {percent}% más de cantidad de armas"
+msgstr "Añade un +{percent}% más de cantidad de armas"
 
 #. Upgrade card - description (upgrade_player_weap_size)
 #. source: Increases weapon size multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_size.description"
-msgstr "Incrementa el tamaño de las armas un {percent}%"
+msgstr "Incrementa el tamaño de las armas un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_weap_speed)
 #. source: Increases weapon attack speed multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_speed.description"
-msgstr "Incrementa la velocidad de ataque un {percent}%"
+msgstr "Incrementa la velocidad de ataque un +{percent}%"
 
 #. Upgrade card - name (weapon_avd)
 #. source: AVD Logo
@@ -2267,7 +2332,10 @@ msgstr "Sesión iniciada"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr "Para comenzar, clica tu nombre de usuario.\nCuando inicies sesión, puedes cambiar de usuario.\nSimplemente clica en tu nombre arriba del menú."
+msgstr ""
+"Para comenzar, clica tu nombre de usuario.\n"
+"Cuando inicies sesión, puedes cambiar de usuario.\n"
+"Simplemente clica en tu nombre arriba del menú."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -3345,7 +3413,7 @@ msgstr "Tienda"
 #. Shop screen - speech
 #. source: Purchase some upgrades! Please, I need Coin...
 msgid "UI.shop_speech"
-msgstr "¡Compra mejoras! Por favor, necesito Moneda... "
+msgstr "¡Compra mejoras! Por favor, necesito Moneda..."
 
 #. UI (script-driven)
 #. source: Defragmented
@@ -3365,7 +3433,7 @@ msgstr "Selecciona una mejora para continuar"
 #. Upgrade screen - weapon pick prompt
 #. source: Select a weapon to continue.
 msgid "UI.select_weapon"
-msgstr "Selecciona un arma para continuar. "
+msgstr "Selecciona un arma para continuar."
 
 #. Weapon Drivers screen - title
 #. source: Weapon Drivers
@@ -3460,47 +3528,90 @@ msgstr "Guía rápida"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr "¡Bienvenido a {game}!\n\nMe llamo Virry y voy a enseñarte cómo jugar."
+msgstr ""
+"¡Bienvenido a {game}!\n"
+"\n"
+"Me llamo Virry y voy a enseñarte cómo jugar."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr "Vamos a empezar.\n\nUsa {move} para moverte por la pantalla.\n\nClica con {click} y no te olvides de hacer doble clic para abrir archivos.\n\nTambién puedes mantener {drag} para arrastrar archivos y moverlos por la carpeta."
+msgstr ""
+"Vamos a empezar.\n"
+"\n"
+"Usa {move} para moverte por la pantalla.\n"
+"\n"
+"Clica con {click} y no te olvides de hacer doble clic para abrir archivos.\n"
+"\n"
+"También puedes mantener {drag} para arrastrar archivos y moverlos por la carpeta."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr "Para empezar debes elegir una {class} y una {difficulty}.\n\nPor ahora, vamos a seleccionar el cursor {default} y eventualmente desbloquearás más conforme juegues.\n\nElige Protocolo I-III como {difficulty}.\n\nCompletar un Protocolo desbloquea {policies} que proveen retos adicionales.\n\n¡Selecciona tu {class} y una {difficulty}!"
+msgstr ""
+"Para empezar debes elegir una {class} y una {difficulty}.\n"
+"\n"
+"Por ahora, vamos a seleccionar el cursor {default} y eventualmente desbloquearás más conforme juegues.\n"
+"\n"
+"Elige Protocolo I-III como {difficulty}.\n"
+"\n"
+"Completar un Protocolo desbloquea {policies} que proveen retos adicionales.\n"
+"\n"
+"¡Selecciona tu {class} y una {difficulty}!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr "Puedes seleccionar una arma inicial para empezar.\n\nProgresa en la partida y sube de nivel para añadir más armas a tu conjunto.\n\nCuando subes de nivel, puedes elegir entre mejoras de cursor o de arma para mejorar tus estadísticas.\n\nCuando el arma sube a un cierto nivel, desbloqueas los {drivers} que dan mejoras a medida."
+msgstr ""
+"Puedes seleccionar una arma inicial para empezar.\n"
+"\n"
+"Progresa en la partida y sube de nivel para añadir más armas a tu conjunto.\n"
+"\n"
+"Cuando subes de nivel, puedes elegir entre mejoras de cursor o de arma para mejorar tus estadísticas.\n"
+"\n"
+"Cuando el arma sube a un cierto nivel, desbloqueas los {drivers} que dan mejoras a medida."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr "El objetivo del juego es sobrevivir, básicamente.\n\nHay 5 rondas de 5 minutos. Ve a la {safe} al final de cada ronda para continuar."
+msgstr ""
+"El objetivo del juego es sobrevivir, básicamente.\n"
+"\n"
+"Hay 5 rondas de 5 minutos. Ve a la {safe} al final de cada ronda para continuar."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr "Para sobrevivir:\nEvita los enemigos, colecciona experiencia y dinero, consigue mejoras y abre archivos.\n\nAlgunos archivos conllevan riesgos, otros necesitan claves y otros dan cosas garantizadas.\n\nTendrás una tarea opcional en la esquina superior derecha que da bonificaciones adicionales."
+msgstr ""
+"Para sobrevivir:\n"
+"Evita los enemigos, colecciona experiencia y dinero, consigue mejoras y abre archivos.\n"
+"\n"
+"Algunos archivos conllevan riesgos, otros necesitan claves y otros dan cosas garantizadas.\n"
+"\n"
+"Tendrás una tarea opcional en la esquina superior derecha que da bonificaciones adicionales."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr "Gana Beanz eliminando enemigos y llegando a la {safe} a tiempo.\n\nConsigue Beanz adicionales completando Tareas.\n\n¡Gasta tus Beanz en clases, armas, mejoras, plugins, archivos, {vapor} y más!"
+msgstr ""
+"Gana Beanz eliminando enemigos y llegando a la {safe} a tiempo.\n"
+"\n"
+"Consigue Beanz adicionales completando Tareas.\n"
+"\n"
+"¡Gasta tus Beanz en clases, armas, mejoras, plugins, archivos, {vapor} y más!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr "¡Eso es todo por ahora!\n\nElige tu primera arma, juega, sobrevive y diviértete :)"
+msgstr ""
+"¡Eso es todo por ahora!\n"
+"\n"
+"Elige tu primera arma, juega, sobrevive y diviértete :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3681,7 +3792,22 @@ msgstr "¡Has ganado!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr "Se ha encontrado un problema en su ordenador y Ventanas ha sido apagado para evitar daños al equipo.\n\nSYSTEM_COHERENCE_FAILURE\n\nSi esta es la primera vez que ve esta pantalla de error de detención, reinicie su equipo. Si esta pantalla aparece otra vez, módulos internos del sistema podrían haberse comprometido.\n\nPor favor, verifique la integridad de los componentes del sistema instalados. Comportamientos no esperados incluyen: memoria corrupta, inyección de paquetes inválida o ejecución de scripts no permitidos.\nSi continúa el problema, haga un reinicio seguro y elimine o reinstale los componentes comprometidos.\n\n*** STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nEmpezando el volcado de memoria física.\nDescarga de memoria física completa.\nPóngase en contacto con su administrador de sistema para obtener más información\nPresione {click} para continuar. {tab} para ver estadísticas..."
+msgstr ""
+"Se ha encontrado un problema en su ordenador y Ventanas ha sido apagado para evitar daños al equipo.\n"
+"\n"
+"SYSTEM_COHERENCE_FAILURE\n"
+"\n"
+"Si esta es la primera vez que ve esta pantalla de error de detención, reinicie su equipo. Si esta pantalla aparece otra vez, módulos internos del sistema podrían haberse comprometido.\n"
+"\n"
+"Por favor, verifique la integridad de los componentes del sistema instalados. Comportamientos no esperados incluyen: memoria corrupta, inyección de paquetes inválida o ejecución de scripts no permitidos.\n"
+"Si continúa el problema, haga un reinicio seguro y elimine o reinstale los componentes comprometidos.\n"
+"\n"
+"*** STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
+"\n"
+"Empezando el volcado de memoria física.\n"
+"Descarga de memoria física completa.\n"
+"Póngase en contacto con su administrador de sistema para obtener más información\n"
+"Presione {click} para continuar. {tab} para ver estadísticas..."
 
 #. Browser address-bar caption
 #. source: Address
@@ -4344,7 +4470,7 @@ msgstr "Activación requerida"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr "No hay Keygens. Consigue plugins de instaladores craqueados o compra las claves en la Tienda. "
+msgstr "No hay Keygens. Consigue plugins de instaladores craqueados o compra las claves en la Tienda."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4496,7 +4622,9 @@ msgstr "Usar {cost} monedas para 1 clave"
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr "Vende una llave por {cost} monedas\nEl mercado se queda con una comisión de {fee} monedas"
+msgstr ""
+"Vende una llave por {cost} monedas\n"
+"El mercado se queda con una comisión de {fee} monedas"
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4531,7 +4659,9 @@ msgstr "Mejorado"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr "Los comprobadores de salud echan más corazones por partida.\nUna vez por carpeta segura."
+msgstr ""
+"Los comprobadores de salud echan más corazones por partida.\n"
+"Una vez por carpeta segura."
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4803,7 +4933,7 @@ msgstr "Doble click para Reproducir"
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
 msgid "CLICKABLE.double_click_shuffle"
-msgstr ""
+msgstr "Doble clic para saltar canción"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
@@ -4850,7 +4980,7 @@ msgstr "Doble clic para cambiar idioma"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr ""
+msgstr "Doble click para abrir el enlace[br]Las traducciones del juego son contribuciones de la comunidad."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -4998,13 +5128,17 @@ msgstr ""
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr "Extrayendo archivo: \\n%s procedente de /.???"
+msgstr ""
+"Extrayendo archivo: \n"
+"%s procedente de /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr "Tiempo estimado: {m}m {s}s ({cur}\nKB de {max} KB) \nTasa de procesado: {rate} KB/S"
+msgstr ""
+"Tiempo estimado: {m}m {s}s ({cur} KB de {max} KB) \n"
+"Tasa de procesado: {rate} KB/S"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5336,7 +5470,7 @@ msgstr ""
 
 #. Scene label
 msgid "Translations GitHub"
-msgstr ""
+msgstr "Traducciones del GitHub"
 
 #. avs03
 msgid "avs03.com"
@@ -5371,7 +5505,9 @@ msgstr "Overclockeado"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr "Multiplica la velocidad 1,6x\nReduce el refresco 15%"
+msgstr ""
+"Multiplica la velocidad 1,6x\n"
+"Reduce el refresco -15%"
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5381,7 +5517,9 @@ msgstr "Hiperhilo"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr "Añade +2 cantidad.\nReduce el daño 20%"
+msgstr ""
+"Añade +2 cantidad.\n"
+"Reduce el daño -20%"
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
@@ -5391,7 +5529,9 @@ msgstr "Reloj turbo"
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr "Incrementa la velocidad 50%\nReduce poder 15%"
+msgstr ""
+"Incrementa la velocidad+ 50%\n"
+"Reduce poder -15%"
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5421,7 +5561,7 @@ msgstr "Parachoques"
 #. Weapon driver / overclock card - description (bumper)
 #. source: On wall bounce: Increase Damage +50% and trigger a Blast.
 msgid "DRIVER.bumper.description"
-msgstr "Cuando rebota: Incrementa el daño 50% y provoca una explosión"
+msgstr "Cuando rebota: Incrementa el daño +50% y provoca una explosión"
 
 #. Weapon driver / overclock card - name (avd_fragmented)
 #. source: Fragmented
@@ -5431,7 +5571,9 @@ msgstr "Fragmentado"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr "Cuando rebota: se muta en dos copias.\nLas copias solo se mutan una vez."
+msgstr ""
+"Cuando rebota: se muta en dos copias.\n"
+"Las copias solo se mutan una vez."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5441,7 +5583,9 @@ msgstr "Mensaje ausente"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr "Añade 1 disparo. Incrementa la velocidad 20%.\nIncrementa el tamaño 15%"
+msgstr ""
+"Añade +1 disparo. Incrementa la velocidad +20%.\n"
+"Incrementa el tamaño +15%"
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5451,7 +5595,7 @@ msgstr "Lista de amigos"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr "Añade 2 disparos. Incrementa el poder 15%"
+msgstr "Añade +2 disparos. Incrementa el poder +15%"
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5461,7 +5605,9 @@ msgstr "Dispositivos emparejados"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr "Añade 1 disparo. Incrementa el poder 25%.\nIncrementa la velocidad 20%"
+msgstr ""
+"Añade +1 disparo. Incrementa el poder +25%.\n"
+"Incrementa la velocidad +20%"
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5471,7 +5617,9 @@ msgstr "Jabón"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr "Añade 1 burbuja\nIncrementa el tamaño 40%"
+msgstr ""
+"Añade +1 burbuja\n"
+"Incrementa el tamaño +40%"
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5481,7 +5629,9 @@ msgstr "Espuma"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr "Cuando rebota: muta en dos copias\nLas copias solo se mutan una vez "
+msgstr ""
+"Cuando rebota: muta en dos copias\n"
+"Las copias solo se mutan una vez "
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5491,7 +5641,9 @@ msgstr "Buscar"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr "Convierte repulsión a Lag\nIncrementa la velocidad 60%"
+msgstr ""
+"Convierte repulsión a Lag\n"
+"Incrementa la velocidad +60%"
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5511,7 +5663,9 @@ msgstr "Desvío"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr "Convierte calor a Lag. Incrementa el tamaño 35%\nIncrementa el daño 15%"
+msgstr ""
+"Convierte calor a Lag. Incrementa el tamaño +35%\n"
+"Incrementa el daño +15%"
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5521,7 +5675,9 @@ msgstr "Zona de trabajo"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr "Añade +1 cono.\nIncrementa el poder 30% "
+msgstr ""
+"Añade +1 cono.\n"
+"Incrementa el poder 30% "
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5531,7 +5687,9 @@ msgstr "Secuestro"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr "Convierte Lag a infectar. Añade 1 pestaña.\nIncrementa Poder 25%"
+msgstr ""
+"Convierte Lag a infectar. Añade +1 pestaña.\n"
+"Incrementa Poder +25%"
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5551,7 +5709,9 @@ msgstr "Cuchilla"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr "Convierte repulsión a Infectar. Incrementa el tamaño 80%\nReduce el tamaño 0,5"
+msgstr ""
+"Convierte repulsión a Infectar. Incrementa el tamaño +80%\n"
+"Reduce el tamaño 0,5"
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5561,7 +5721,9 @@ msgstr "Corte de papel"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr "Añade +2 tijeras.\nIncrementa la velocidad 25%"
+msgstr ""
+"Añade +2 tijeras.\n"
+"Incrementa la velocidad +25%"
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5571,7 +5733,9 @@ msgstr "Correo electrónico en llamas"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr "Convierte Infección a Calor. Añade 1 sobre.\nIncrementa velocidad 35%"
+msgstr ""
+"Convierte Infección a Calor. Añade +1 sobre.\n"
+"Incrementa velocidad +35%"
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5611,7 +5775,9 @@ msgstr "Negrita"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr "Incrementa el tamaño 60%. Incrementa el poder 60%\nReduce la cantidad en 25%"
+msgstr ""
+"Incrementa el tamaño +60%. Incrementa el poder +60%\n"
+"Reduce la cantidad en -25%"
 
 #. Weapon driver / overclock card - name (fontart_wordart)
 #. source: WordArt
@@ -5621,7 +5787,9 @@ msgstr ""
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr "Incrementa el tamaño 40%\nAñade 1 cantidad"
+msgstr ""
+"Incrementa el tamaño +40%\n"
+"Añade +1 cantidad"
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5631,7 +5799,9 @@ msgstr "Prueba de rendimiento"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr "Convierte Repulsión a Calor. Incrementa el daño 25%\nIncrementa la velocidad 20%"
+msgstr ""
+"Convierte Repulsión a Calor. Incrementa el daño +25%\n"
+"Incrementa la velocidad +20%"
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
@@ -5641,7 +5811,9 @@ msgstr "Sincronización vertical"
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr "Los números FPS rebotan en las paredes.\nIncrementa el tamaño 20%"
+msgstr ""
+"Los números FPS rebotan en las paredes.\n"
+"Incrementa el tamaño +20%"
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5651,7 +5823,9 @@ msgstr "Cazador de cabezas"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr "Incrementa la probabilidad de ejecución. Convierte repulsión a calor.\nReduce el daño 15%"
+msgstr ""
+"Incrementa la probabilidad de ejecución. Convierte repulsión a calor.\n"
+"Reduce el daño -15%"
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5671,7 +5845,9 @@ msgstr "Carga incendiaria"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr "Convierte repulsión a calor. Añade 1 cantidad.\nIncrementa Poder 20%"
+msgstr ""
+"Convierte repulsión a calor. Añade +1 mina.\n"
+"Incrementa Poder +20%"
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -5691,7 +5867,9 @@ msgstr "Congestión del acceso telefónico"
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr "Convierte Repulsión a Lag. Añade 1 cantidad\nIncrementa el tamaño 25%"
+msgstr ""
+"Convierte Repulsión a Lag. Añade +1 antena\n"
+"Incrementa el tamaño +25%"
 
 #. Weapon driver / overclock card - name (modem_broadband)
 #. source: Broadband
@@ -5701,7 +5879,9 @@ msgstr "Banda ancha"
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr "Incrementa la velocidad 50%\nIncrementa el daño 20%"
+msgstr ""
+"Incrementa la velocidad +50%\n"
+"Incrementa el daño +20%"
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -5711,7 +5891,9 @@ msgstr "Sobrecarga de pestañas"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr "Convierte infección a calor. Incrementa el daño 35%\nIncrementa poder 35%"
+msgstr ""
+"Convierte infección a calor. Incrementa el daño +35%\n"
+"Incrementa poder +35%"
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -5731,7 +5913,9 @@ msgstr "Derramar"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr "Incrementa el tamaño 100%\nReduce el daño 20%"
+msgstr ""
+"Incrementa el tamaño +100%\n"
+"Reduce el daño -20%"
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -5741,7 +5925,9 @@ msgstr "Llenar cubo"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr "Añade 1 cantidad.\nIncrementa el poder 40%"
+msgstr ""
+"Añade +1 mancha de pintura.\n"
+"Incrementa el poder +40%"
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -5751,7 +5937,9 @@ msgstr "Inclinado"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr "En rebote: Incrementar tamaño. Ocurre hasta dos veces.\nReduce el tamaño 30%"
+msgstr ""
+"En rebote: Incrementar tamaño. Ocurre hasta dos veces.\n"
+"Reduce el tamaño -30%"
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -5761,7 +5949,9 @@ msgstr "Estricto"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr "Convierte repulsión en infectado.\nIncrementa poder 70%"
+msgstr ""
+"Convierte repulsión en infectado.\n"
+"Incrementa poder +70%"
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -5771,17 +5961,21 @@ msgstr "Heurística"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr "Incrementa el daño 40%.\nIncrementa la velocidad 20%"
+msgstr ""
+"Incrementa el daño +40%.\n"
+"Incrementa la velocidad +20%"
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
 msgid "DRIVER.satellite_dish.name"
-msgstr "Comida de microondas"
+msgstr "Calentado en microondas"
 
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr "Convierte Lag a Calor. Incrementa tamaño 30%\nIncrementa velocidad 15%"
+msgstr ""
+"Convierte Lag a Calor. Incrementa tamaño +30%\n"
+"Incrementa velocidad +15%"
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -5791,7 +5985,7 @@ msgstr "Enlace"
 #. Weapon driver / overclock card - description (satellite_uplink)
 #. source: Dishes follow you for their lifetime.
 msgid "DRIVER.satellite_uplink.description"
-msgstr "Los platos te siguen mientras existan"
+msgstr "Las antenas te siguen mientras existan"
 
 #. Weapon driver / overclock card - name (scimitar_dragon)
 #. source: Weapon Poison
@@ -5801,7 +5995,9 @@ msgstr "Arma venenosa"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr "Convierte repulsión en infectar. Incrementa el tamaño 50%\nAñade +1 cantidad"
+msgstr ""
+"Convierte repulsión en infectar. Incrementa el tamaño +50%\n"
+"Añade +1 cantidad"
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -5811,7 +6007,7 @@ msgstr "Doble empeñadura"
 #. Weapon driver / overclock card - description (scimitar_dual)
 #. source: Add +2 Amount.
 msgid "DRIVER.scimitar_dual.description"
-msgstr "Añade 2 espadas"
+msgstr "Añade +2 espadas"
 
 #. Weapon driver / overclock card - name (search_deep)
 #. source: Deep Search
@@ -5821,7 +6017,9 @@ msgstr "Búsqueda profunda"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr "Convierte repulsión a Lag. Añade 2 lupas.\nReduce el daño 20%"
+msgstr ""
+"Convierte repulsión a Lag. Añade +2 lupas.\n"
+"Reduce el daño -20%"
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -5831,7 +6029,9 @@ msgstr "Buscar siguiente"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr "Incrementa la velocidad 30%\nIncrementa el refresco 20%"
+msgstr ""
+"Incrementa la velocidad +30%\n"
+"Incrementa el refresco +20%"
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -5841,7 +6041,9 @@ msgstr "Calibre alto"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr "Multiplica el daño 1,5x. Incrementa el poder 30%\nIncrementa refresco 25%"
+msgstr ""
+"Multiplica el daño 1,5x. Incrementa el poder +30%\n"
+"Incrementa refresco +25%"
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -5850,9 +6052,10 @@ msgstr "Un tiro"
 
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
-#, fuzzy
 msgid "DRIVER.sniper_oneshot.description"
-msgstr "Incrementa la probabilidad de ejecución\nIncrementa el daño 25%"
+msgstr ""
+"Añade +7% de probabilidad de ejecución.\n"
+"Incrementa el daño +25%"
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -5862,7 +6065,9 @@ msgstr "Trampas"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr "Incrementa el daño 50%. Añade 1 carta.\nReduce el refresco 15%"
+msgstr ""
+"Incrementa el daño +50%. Añade +1 carta.\n"
+"Reduce el refresco -15%"
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6026,13 +6231,21 @@ msgstr "SHZip v2.03 (copia de evaluación)"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid "Extracting file:\ntemp_file_649743.zip from /.???"
-msgstr "Extrayendo archivo:\ntemp_file_649743.zip de /.???"
+msgid ""
+"Extracting file:\n"
+"temp_file_649743.zip from /.???"
+msgstr ""
+"Extrayendo archivo:\n"
+"temp_file_649743.zip de /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
-msgstr "Tiempo restante estimado: 0m 00s (0.00 KB of 0.00 KB)\nTasa de procesado: 0.00 KB/Sec"
+msgid ""
+"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
+"Processing rate: 0.00 KB/Sec"
+msgstr ""
+"Tiempo restante estimado: 0m 00s (0.00 KB of 0.00 KB)\n"
+"Tasa de procesado: 0.00 KB/Sec"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6126,8 +6339,19 @@ msgstr "¡Victoria!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
-msgstr "¡Lo has conseguido! ¡Estoy orgulloso de ti! Espero que te hayas divertido\nSin embargo, siento mucho que esta sea una pantalla de victoria tan aburrida y poco inspiradora. Te mereces algo mejor y mejorará - en la versión final\nMientras, disfruta intentando las demás dificultades, gasta los Beanz en algunas mejoras e intenta otras builds\nSi te ha divertido esta demo, añade a la lista de deseados o síguelo en Steam - ¡vendrán muchas cosas!"
+msgid ""
+"You did it! I'm proud of you! I hope you had fun.\n"
+"\n"
+"However I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n"
+"\n"
+"In the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n"
+"\n"
+"If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr ""
+"¡Lo has conseguido! ¡Estoy orgulloso de ti! Espero que te hayas divertido\n"
+"Sin embargo, siento mucho que esta sea una pantalla de victoria tan aburrida y poco inspiradora. Te mereces algo mejor y mejorará - en la versión final\n"
+"Mientras, disfruta intentando las demás dificultades, gasta los Beanz en algunas mejoras e intenta otras builds\n"
+"Si te ha divertido esta demo, añade a la lista de deseados o síguelo en Steam - ¡vendrán muchas cosas!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6161,8 +6385,12 @@ msgstr "Comprobando la compatibilidad de los plugins..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
-msgstr "Añade +10 PV máx.\nCura el 20% de la vida máxima cuando abres una Carpeta Segura."
+msgid ""
+"Add +10 Max HP.\n"
+"Heal 20% of Max HP when opening a Safe Folder."
+msgstr ""
+"Añade +10 PV máx.\n"
+"Cura el 20% de la vida máxima cuando abres una Carpeta Segura."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6196,13 +6424,35 @@ msgstr "Ajustes"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
-msgstr "pronto\n- más armas\n- más enemigos\n- jefes\n- clases\n- fondos de pantalla\n- evoluciones de arma\n- y más"
+msgid ""
+"coming soon\n"
+"- more weapons\n"
+"- more enemies\n"
+"- bosses\n"
+"- classes\n"
+"- wallpapers\n"
+"- weapon evos\n"
+"- and more"
+msgstr ""
+"pronto\n"
+"- más armas\n"
+"- más enemigos\n"
+"- jefes\n"
+"- clases\n"
+"- fondos de pantalla\n"
+"- evoluciones de arma\n"
+"- y más"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
-msgstr "Muchas gracias por jugar. Significa mucho para mí.\ndisfruta y que tengas un buen día <3\nshaun"
+msgid ""
+"Thank you so much for playing. It means the world to me.\n"
+"enjoy and have a great day <3\n"
+"shaun"
+msgstr ""
+"Muchas gracias por jugar. Significa mucho para mí.\n"
+"disfruta y que tengas un buen día <3\n"
+"shaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6246,8 +6496,12 @@ msgstr "Salir"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
-msgstr "Antivirus Survivors 2003 Profesional\nShaun Hammond Business Solutions Ltd"
+msgid ""
+"Antivirus Survivors 2003 Professional\n"
+"Shaun Hammond Business Solutions Ltd"
+msgstr ""
+"Antivirus Survivors 2003 Profesional\n"
+"Shaun Hammond Business Solutions Ltd"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6331,8 +6585,12 @@ msgstr "Buscar Refrescar"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
-msgstr "Incrementa la tasa de refresco un 20%\nAquí hay una segunda línea"
+msgid ""
+"Increases Refresh Rate for Search by 20%.\n"
+"But here's a second line also."
+msgstr ""
+"Incrementa la tasa de refresco un 20%\n"
+"Aquí hay una segunda línea"
 
 #. Scene label
 #. screens: torrent_window.tscn

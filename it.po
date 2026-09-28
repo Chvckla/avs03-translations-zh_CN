@@ -4864,7 +4864,7 @@ msgstr "Migliorato: {min}-{max} PS"
 #. Health Check Pro heal explanation
 #. source: Restore 50% of Max HP right now.
 msgid "UI.health_check_pro_heal_blurb"
-msgstr ""
+msgstr "Recupera il 50% dei PS Massimi adesso."
 
 #. Health Check Pro heal amount preview
 #. source: +{amount} HP
@@ -5090,7 +5090,7 @@ msgstr "Doppio Click per Giocare"
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
 msgid "CLICKABLE.double_click_shuffle"
-msgstr ""
+msgstr "Fai Doppio Click per saltare la traccia"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
@@ -5138,6 +5138,8 @@ msgstr "Doppio Click per Cambiare Lingua"
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
 msgstr ""
+"Fai Doppio Click per Aprire il Link[br]Le traduzioni in gioco sono "
+"generosamente incluse grazie al supporto della community."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5279,7 +5281,7 @@ msgstr "Costo: %d Beanz"
 #. Zip window titlebar when SHZip License is equipped
 #. source: SHZip v2.03
 msgid "ZIP.title_licensed"
-msgstr ""
+msgstr "SHZip v2.03"
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
@@ -5625,7 +5627,7 @@ msgstr "Feedback"
 
 #. Scene label
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. Scene label
 msgid "Discord"
@@ -5633,7 +5635,7 @@ msgstr "Discord"
 
 #. Scene label
 msgid "Translations GitHub"
-msgstr ""
+msgstr "Traduzioni GitHub"
 
 #. avs03
 msgid "avs03.com"
