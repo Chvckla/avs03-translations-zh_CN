@@ -3521,7 +3521,7 @@ msgstr "正在收集硬币"
 #. source: Investment withdrawn (%.2f)
 #. Keep placeholders unchanged: %.2f
 msgid "UI.notif_investment_withdrawn"
-msgstr "投资已提取 (%.2f)"
+msgstr "投资已提现 (%.2f)"
 
 #. Side Task complete toast
 #. source: Side Task complete
@@ -3824,7 +3824,7 @@ msgstr "全押"
 #. Finance Manager withdraw button
 #. source: Withdraw
 msgid "UI.stock_trader_withdraw"
-msgstr "提取"
+msgstr "提现"
 
 #. AVN Buddy Plus! shield file name
 #. source: Send Message
@@ -4787,17 +4787,17 @@ msgstr "理财管家"
 #. Finance Manager last-folder warning
 #. source: Last folder: withdraw before the last battle!
 msgid "UI.stock_trader_warning"
-msgstr "这是最后的文件夹：请在最后一战前提取！"
+msgstr "这是最后的文件夹：请在最后一战前提现！"
 
 #. Finance Manager performance group
 #. source: Performance
 msgid "UI.stock_trader_group_history"
-msgstr "绩效"
+msgstr "走势"
 
 #. Finance Manager position group
 #. source: Position
 msgid "UI.stock_trader_group_position"
-msgstr "状况"
+msgstr "仓位"
 
 #. Finance Manager run-stats group
 #. source: Run Stats
@@ -4822,7 +4822,7 @@ msgstr "已投资"
 #. Finance Manager balance row
 #. source: Balance
 msgid "UI.stock_trader_label_now"
-msgstr "平衡"
+msgstr "余额"
 
 #. Finance Manager open-profit row
 #. source: Profit
