@@ -2651,7 +2651,7 @@ msgstr "制作人"
 #. Credits window - role title. Keep the name Virry.
 #. source: Animator (Virry)
 msgid "CREDITS.animation_virry"
-msgstr "动效设计师（也就是 Virry）"
+msgstr "动画师（也就是 Virry）"
 
 #. Credits window - role title
 #. source: Community QA
