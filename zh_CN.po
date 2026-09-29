@@ -106,7 +106,7 @@ msgstr "管理员"
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
 msgstr ""
-"初始拥有 1 把密钥。\n"
+"初始拥有 1 个密钥。\n"
 "硬币获取为 1.3 倍。\n"
 "拾取范围为 1.3 倍。\n"
 "商店折扣增加 +10%。\n"
@@ -471,7 +471,7 @@ msgstr "显示指针位置"
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
 msgid "PLUGIN.locate_pointer.description"
-msgstr "当受到伤害时，触发一次爆炸（冷却时间 20 秒，随安装数量减少）。"
+msgstr "当受到伤害时，触发一次爆炸（冷却时间 20 秒，随安装次数增加而减少）。"
 
 #. Plugin - name (luck_boost)
 #. source: Luck Boost
@@ -697,7 +697,7 @@ msgstr "静帧"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "当静止不动时，武器伤害每秒增加 +5%，单个插件最多可增加至 +15%。"
+msgstr "当静止不动时，武器伤害每秒增加 +5%，单次安装最多可增加至 +15%。"
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -724,7 +724,7 @@ msgstr ""
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
 msgid "PLUGIN.wallet_damage.name"
-msgstr "钱包损失"
+msgstr "钱包受伤"
 
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
@@ -769,7 +769,7 @@ msgstr "Vapid 网盘 Pro"
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
 msgid "PLUGIN.vapidshare_pro.description"
-msgstr "并行下载 Vapid 网盘分卷且下载速度更快。"
+msgstr "可以并行下载 Vapid 网盘分卷，且下载速度更快。"
 
 #. Plugin - name (megacrit)
 #. source: Megacrit
@@ -865,7 +865,7 @@ msgstr "系统还原"
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
 msgstr ""
-"死亡时不会蓝屏，而是改为回复 50% 的最大生命值。单个插件的效果仅触发一次。"
+"死亡时不会蓝屏，而是改为回复 50% 的最大生命值。单次安装的效果仅触发一次。"
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -905,7 +905,8 @@ msgstr "协议 1"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr "新手难度。每打开一个安全文件夹并清除敌人便可获得 16 个豆豆。"
+msgstr ""
+"新手难度。每打开一个安全文件夹便可获得 16 个豆豆，此外还有清除敌人的奖励。"
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -915,7 +916,8 @@ msgstr "协议 2"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr "二级难度。每打开一个安全文件夹并清除敌人便可获得 32 个豆豆。"
+msgstr ""
+"二级难度。每打开一个安全文件夹便可获得 24 个豆豆，此外还有清除敌人的奖励。"
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -925,7 +927,9 @@ msgstr "协议 3"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr "第三档难度。每打开一个安全文件夹并清除敌人便可获得 32 个豆豆。"
+msgstr ""
+"第三档难度。每打开一个安全文件夹可以获得 32 个豆豆，此外还有清除敌人的奖"
+"励。"
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -935,7 +939,8 @@ msgstr "协议 4"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr "高难度。每打开一个安全文件夹并清除敌人便可获得 48 个豆豆。"
+msgstr ""
+"高难度。每打开一个安全文件夹可以获得 48 个豆豆，此外还有清除敌人的奖励。"
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -946,7 +951,7 @@ msgstr "协议 5"
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
 msgstr ""
-"您没必要尝试这个。如果非要试试的话，每打开一个安全文件夹便可获得 64 个豆"
+"您没必要尝试这个。如果非要试试的话，每打开一个安全文件夹可以获得 64 个豆"
 "豆。"
 
 #. Stat display - name (upgrade_player_armor)
@@ -1084,7 +1089,7 @@ msgstr "处理速度"
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
 msgstr ""
-"影响处理所有文件（如 .zip 文件、.bat 文件、青柠音乐文件等）的速度（按指数计"
+"影响处理所有文件（如 .zip 文件、.bat 文件、柠檬音乐文件等）的速度（按指数计"
 "算）。"
 
 #. Stat display - name (upgrade_player_refresh_multi)
@@ -1189,7 +1194,7 @@ msgstr "{weapon}的大小增加 +{percent}%。"
 #. source: {weapon} Amount
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.amount.name"
-msgstr "{weapon}数量"
+msgstr "{weapon}生成"
 
 #. Weapon upgrade card - spawn amount stat description
 #. source: Adds +{percent}% chance of additional {spawn_noun}.
@@ -1503,7 +1508,7 @@ msgstr "搜索"
 #. Upgrade card - description (weapon_search)
 #. source: Sends out a magnifying glass around the player.
 msgid "UPGRADE.weapon_search.description"
-msgstr "向玩家周围发射一面放大镜。"
+msgstr "向玩家周围发射一面轨迹为螺旋曲线的放大镜。"
 
 #. Upgrade card - name (weapon_solitaire)
 #. source: Solitaire
@@ -1513,7 +1518,7 @@ msgstr "纸牌"
 #. Upgrade card - description (weapon_solitaire)
 #. source: Shoots a bouncing card that adds stacks of Infect to enemies.
 msgid "UPGRADE.weapon_solitaire.description"
-msgstr "射出一张弹来弹去的扑克牌，对敌人施加感染效果。"
+msgstr "射出弹来弹去的扑克牌，对敌人施加感染效果。"
 
 #. Upgrade card - name (weapon_fraps)
 #. source: Frames
@@ -1533,7 +1538,7 @@ msgstr "屠龙刀"
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr "在指针上方和下方斩击。额外数量会增加交替出现的斩击。"
+msgstr "在指针上方和下方斩击。更多的数量会增加交替出现的斩击。"
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -1588,7 +1593,7 @@ msgstr "在最近的敌人身上打开浏览器标签页，将其感染（有时
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
 msgid "UPGRADE.weapon_satellite.name"
-msgstr "无线局域网"
+msgstr "无线网络"
 
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
@@ -1688,7 +1693,7 @@ msgstr "路锥"
 #. Weapon metadata
 #. source: link
 msgid "WEAPON.blatand.spawn_noun"
-msgstr "链接"
+msgstr "监芽链"
 
 #. Weapon metadata
 #. source: ring
@@ -1803,7 +1808,7 @@ msgstr "沙滩球"
 #. Enemy sniper-feed name - name (blocker)
 #. source: Small Shield
 msgid "ENEMY.blocker.name"
-msgstr "小号盾牌"
+msgstr "小黄盾"
 
 #. Enemy sniper-feed name - name (kiter)
 #. source: Recycler
@@ -1833,7 +1838,7 @@ msgstr "AVN 好友"
 #. Enemy sniper-feed name - name (big_shield)
 #. source: Big Shield
 msgid "ENEMY.big_shield.name"
-msgstr "大号盾牌"
+msgstr "大红盾"
 
 #. Enemy sniper-feed name - name (memory_leak)
 #. source: Memory Leak
@@ -2112,7 +2117,7 @@ msgstr "次要按键"
 #. source: Already bound to %s.
 #. Keep placeholders unchanged: %s
 msgid "SETTINGS.rebind_conflict"
-msgstr "该按键已绑定至%s。"
+msgstr "此按键已绑定至%s。"
 
 #. Settings menu
 #. source: Replace
@@ -2566,7 +2571,7 @@ msgstr "敌人"
 #. Personalise - avatar name
 #. source: Lemwire
 msgid "UI.avatar_lemwire"
-msgstr "青柠音乐"
+msgstr "柠檬音乐"
 
 #. Personalise - avatar name
 #. source: Coin
@@ -2628,6 +2633,48 @@ msgstr "用户信息.xls - 杀软幸存者"
 msgid "UI.start_menu_tasks_stats"
 msgstr "任务和统计"
 
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "制作人员名单"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "开发、美术、音乐等"
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "制作人"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "动效设计师（也就是 Virry）"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "社区 Q&A"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "社区翻译者"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "特别感谢"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr ""
+"非常感谢大家的帮助，让我有机会实现这个梦想。我爱你们！！！\n"
+"-Shaun"
+
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
@@ -2656,7 +2703,7 @@ msgstr "这些表展示了您的游戏记录。切换到“任务”以查看解
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr "完成一项武器任务，然后在“添加或删除解锁项”中购买该武器。"
+msgstr "完成一项武器任务，然后在“添加或删除解锁项”中购买此武器。"
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
@@ -3241,7 +3288,7 @@ msgstr "已安装"
 #. Store row - disabled label
 #. source: Disabled
 msgid "UI.store_state_disabled"
-msgstr "已禁用"
+msgstr "已卸载"
 
 #. UI (script-driven)
 #. source: Progress: %d / %d
@@ -3364,7 +3411,7 @@ msgstr ""
 #. UI (script-driven)
 #. source: Reroll Locked
 msgid "UI.reroll_disabled"
-msgstr "重选已禁用"
+msgstr "已禁用"
 
 #. Toast shown when something is unlocked
 #. source: Unlocked: %s
@@ -3640,7 +3687,7 @@ msgstr "%d 个增强版！敌人"
 #. Normal installer window title
 #. source: Plugin Suite Installation
 msgid "UI.installer_title"
-msgstr "插件套件安装"
+msgstr "安装插件套件"
 
 #. Installer splash wait label
 #. source: Please wait...
@@ -3803,12 +3850,12 @@ msgstr ""
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
-"如果这是您首次看到此终止界面，请重启系统。如果此界面再次出现，内部模块可能"
-"被破坏。请验证已安装组件的完整性。异常行为可能表明内存已损坏、无效数据包注"
-"入或存在未经授权的脚本执行。如问题仍未解决，请执行安全重启或联系您的系统管"
+"如果这是您首次看到此终止界面，请重启系统。如果此界面仍然出现，则内部模块可"
+"能被破坏，请验证已安装组件的完整性。异常行为可能表明内存损坏、无效数据包注"
+"入或存在未经授权的脚本执行。如问题仍未解决，请执行安全重启或联系系统内部管"
 "理员。\n"
 "\n"
-"技术转储信息：\n"
+"转储信息：\n"
 "\n"
 "STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
 "\n"
@@ -4082,13 +4129,13 @@ msgstr "安装 {amount} 个插件"
 #. source: Collect {amount} Keys in a single run
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_collect_keys_run"
-msgstr "在一轮游戏中收集 {amount} 把密钥"
+msgstr "在一轮游戏中收集 {amount} 个密钥"
 
 #. Unlock requirement - collect N Keys lifetime
 #. source: Collect {amount} Keys
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_collect_keys"
-msgstr "收集 {amount} 把密钥"
+msgstr "收集 {amount} 个密钥"
 
 #. Unlock requirement - collect N Coin lifetime
 #. source: Collect {amount} Coin
@@ -4163,7 +4210,7 @@ msgstr "奖励"
 #. source: Open {amount} LemWire files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_lemwire"
-msgstr "打开青柠音乐文件 {amount} 次"
+msgstr "打开柠檬音乐文件 {amount} 次"
 
 #. Unlock requirement - trigger N spam ad attacks
 #. source: Trigger {amount} Spam Ad Attacks
@@ -4192,7 +4239,7 @@ msgstr "{boss}文件"
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_desc"
-msgstr "让您能够在一轮游戏结束时选择 {boss}，而非随机选择头目。"
+msgstr "让您能够在一轮游戏结束时指定 {boss} 而非随机头目进行对战。"
 
 #. Unlock requirement - land a hit of N damage
 #. source: Land a single hit of {amount} damage
@@ -4258,7 +4305,7 @@ msgstr "侠盗"
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
 msgid "UI.unlock_widget_bullet_time_desc"
-msgstr "减慢周围的速度，更轻松地清除敌人。"
+msgstr "减慢周围的速度，让清除敌人更容易。"
 
 #. UI (script-driven)
 #. source: Heaps of Pain
@@ -4343,7 +4390,7 @@ msgstr "安装 3 个传说插件"
 #. UI (script-driven)
 #. source: Spend 3 Keys for a legendary plugin install.
 msgid "UI.unlock_file_legendary_installer_desc"
-msgstr "花费 3 把密钥以安装传说插件。"
+msgstr "花费 3 个密钥以安装传说插件。"
 
 #. UI (script-driven)
 #. source: Legendary Installer
@@ -4440,7 +4487,7 @@ msgstr "臃肿软件"
 #. Optional extra difficulty policy - description (bloatware)
 #. source: 40% more enemies spawn, and enemies have 20% more health.
 msgid "POLICY.bloatware.description"
-msgstr "敌人数量增加 40%，且生命值增加 20%。"
+msgstr "敌人数量增加 40%，生命值增加 20%。"
 
 #. Optional extra difficulty policy - name (void_breach)
 #. source: Void Breach
@@ -4450,7 +4497,7 @@ msgstr "虚空裂隙"
 #. Optional extra difficulty policy - description (void_breach)
 #. source: The void deals 2x damage and applies 2x Lag.
 msgid "POLICY.void_breach.description"
-msgstr "虚空造成 2 倍的伤害和 2 倍的卡顿。"
+msgstr "虚空造成 2 倍的伤害和卡顿。"
 
 #. Optional extra difficulty policy - name (bad_sector)
 #. source: Bad Sector
@@ -4470,7 +4517,7 @@ msgstr "内存不足"
 #. Optional extra difficulty policy - description (low_memory)
 #. source: No new weapons at level 8, 16, or 24.
 msgid "POLICY.low_memory.description"
-msgstr "在8、16、24级时没有新武器。"
+msgstr "不会在8、16、24级时获得新武器。"
 
 #. Optional extra difficulty policy - name (unsigned_driver)
 #. source: Activation Required
@@ -4564,7 +4611,7 @@ msgid "POLICY.open_relay.description"
 msgstr "每个战斗文件都包含垃圾广告。"
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
 msgstr "默认域策略"
 
@@ -4629,13 +4676,13 @@ msgstr "世界最大的密钥市场"
 #. source: Spend {cost} Coin for 1 Key.
 #. Keep placeholders unchanged: {cost}
 msgid "UI.keybuy_buy_tooltip"
-msgstr "以 {cost} 枚金币购买 1 把密钥。"
+msgstr "以 {cost} 枚硬币购买 1 个密钥。"
 
 #. KeyBuy sell tooltip
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr "以 {cost} 枚金币出售 1 把密钥。市场手续费为 {fee} 枚硬币。"
+msgstr "以 {cost} 枚硬币出售 1 个密钥。市场手续费为 {fee} 枚硬币。"
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4670,7 +4717,7 @@ msgstr "已升级"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr "在本轮游戏中，后续战斗中的健康度检查文件会掉落更多的心。"
+msgstr "在本轮游戏的后续战斗中，健康度检查文件会掉落更多的心。"
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4695,7 +4742,7 @@ msgstr "即刻修复"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr "升级后，战斗中健康度检查文件会掉落更多的心。"
+msgstr "升级后，战斗中的健康度检查文件会掉落更多的心。"
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -4740,7 +4787,7 @@ msgstr "理财管家"
 #. Finance Manager last-folder warning
 #. source: Last folder: withdraw before the last battle!
 msgid "UI.stock_trader_warning"
-msgstr "最后一个文件夹：请在最后一战前提取！"
+msgstr "这是最后的文件夹：请在最后一战前提取！"
 
 #. Finance Manager performance group
 #. source: Performance
@@ -5000,7 +5047,7 @@ msgstr "成功几率：%.0f%%"
 #. Desktop icon tooltip
 #. source: Uses 1 Key
 msgid "CLICKABLE.uses_one_key"
-msgstr "需要 1 把密钥"
+msgstr "需要 1 个密钥"
 
 #. Cracked installer tooltip
 #. source: No key required
@@ -5010,7 +5057,7 @@ msgstr "无需密钥"
 #. Legendary installer tooltip
 #. source: Uses 3 keys · Always Legendary
 msgid "CLICKABLE.legendary_installer_hint"
-msgstr "需要 3 把密钥 · 保证传说品质"
+msgstr "需要 3 个密钥 · 保证传说品质"
 
 #. Desktop icon tooltip
 #. source: Destroys everything on-screen!
@@ -5074,7 +5121,7 @@ msgstr "本轮游戏伤害：%.0f"
 #. source: DPS: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.run_dps"
-msgstr "每秒伤害：%.1f"
+msgstr "DPS：%.1f"
 
 #. Stat tooltip
 #. source: Hits: %d
@@ -5153,7 +5200,7 @@ msgstr ""
 #. source: %s extracted successfully.
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracted_success"
-msgstr "%s 解压完成。"
+msgstr "%s 解压完成，掉落了数据。"
 
 #. DLL
 #. source: Missing dynamic link library %s located.
@@ -5169,7 +5216,7 @@ msgstr "网际巨浪.exe"
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "青柠音乐.exe"
+msgstr "柠檬音乐.exe"
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
@@ -5244,7 +5291,7 @@ msgstr "本轮游戏中清除的敌人数量。"
 #. Run stats panel row
 #. source: Coins collected this run.
 msgid "RUNSTAT.coin_collected_desc"
-msgstr "本轮游戏中收集的金币数量。"
+msgstr "本轮游戏中收集的硬币数量。"
 
 #. Run stats panel row
 #. source: Keys collected this run.
@@ -5362,7 +5409,7 @@ msgstr "上个战斗文件夹中获得的豆豆数量（包括安全文件夹奖
 #. Run and last-round DPS label
 #. source: DPS
 msgid "RUNSTAT.dps"
-msgstr "每秒伤害"
+msgstr "DPS"
 
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
@@ -5447,7 +5494,7 @@ msgstr "下载内存"
 
 #. RAM download complete
 msgid "RAM download complete."
-msgstr "内存下载完成。"
+msgstr "内存下载完成，掉落了数据。"
 
 #. keygen
 msgid "keygen.exe"
@@ -5533,7 +5580,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
 msgid "DRIVER.turbo_clock.name"
-msgstr "涡轮时钟"
+msgstr "睿频时钟"
 
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
@@ -5560,7 +5607,7 @@ msgstr "扩展表"
 #. Weapon driver / overclock card - description (extended_table)
 #. source: Attack Speed no longer makes this weapon expire sooner.
 msgid "DRIVER.extended_table.description"
-msgstr "攻击速度不再导致此武器提前失效。"
+msgstr "提升此武器的速度将不再导致此武器更快消失。"
 
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
@@ -5610,7 +5657,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
 msgid "DRIVER.blatand_pair.name"
-msgstr "配对设备"
+msgstr "已配对设备"
 
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
@@ -5680,7 +5727,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
 msgid "DRIVER.cone_workzone.name"
-msgstr "工作区"
+msgstr "施工路段"
 
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
@@ -5710,7 +5757,7 @@ msgstr "弹窗风暴"
 #. Weapon driver / overclock card - description (cruiser_popup)
 #. source: Tabs chase enemies until the attack ends.
 msgid "DRIVER.cruiser_popup.description"
-msgstr "标签页会追逐敌人，直到攻击结束。"
+msgstr "标签页会追击敌人，直到攻击结束。"
 
 #. Weapon driver / overclock card - name (cut_cleave)
 #. source: Cleave
@@ -5846,7 +5893,7 @@ msgstr "连杀奖励"
 #. Weapon driver / overclock card - description (hitmarkers_killstreak)
 #. source: Cleared enemies increase attack Speed in the next attack.
 msgid "DRIVER.hitmarkers_killstreak.description"
-msgstr "清除敌人可使下一次攻击的攻击速度增加。"
+msgstr "清除敌人可增加下一次攻击的速度。"
 
 #. Weapon driver / overclock card - name (minesweeper_flag)
 #. source: Incendiary Charge
@@ -6154,12 +6201,12 @@ msgstr "生成序列号"
 #. Scene label
 #. screens: lem_upgrade_screen.tscn
 msgid "LemWire 4.7 - Pick Your Download"
-msgstr "青柠音乐 4.7 - 选择您的下载"
+msgstr "柠檬音乐 4.7 - 选择您的下载"
 
 #. Scene label
 #. screens: lem_window.tscn
 msgid "LemWire 4.7"
-msgstr "青柠音乐 4.7"
+msgstr "柠檬音乐 4.7"
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6169,12 +6216,12 @@ msgstr "正在搜索：指针升级"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "Quality"
-msgstr "文件质量"
+msgstr "质量"
 
 #. Scene label
 #. screens: lem_window.tscn; torrent_window.tscn
 msgid "Name"
-msgstr "文件名"
+msgstr "名称"
 
 #. Scene label
 #. screens: lem_window.tscn
