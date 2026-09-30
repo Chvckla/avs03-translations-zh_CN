@@ -1478,7 +1478,7 @@ msgstr "画图"
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr "在玩家附近画出圆圈，对敌人造成伤害的同时对敌人施加卡顿效果。"
+msgstr "在玩家附近画出圆圈，在对敌人造成伤害的同时施加卡顿效果。"
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
@@ -1508,7 +1508,7 @@ msgstr "搜索"
 #. Upgrade card - description (weapon_search)
 #. source: Sends out a magnifying glass around the player.
 msgid "UPGRADE.weapon_search.description"
-msgstr "向玩家周围发射一面轨迹为螺旋曲线的放大镜。"
+msgstr "向玩家周围发射一面沿螺旋曲线移动的放大镜。"
 
 #. Upgrade card - name (weapon_solitaire)
 #. source: Solitaire
@@ -1608,7 +1608,7 @@ msgstr "AVN 聊天"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr "环绕的对话气泡光束，发送消息并使敌人卡顿。"
+msgstr "环绕玩家的对话气泡，发送的消息可以使敌人卡顿。"
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1808,7 +1808,7 @@ msgstr "沙滩球"
 #. Enemy sniper-feed name - name (blocker)
 #. source: Small Shield
 msgid "ENEMY.blocker.name"
-msgstr "小黄盾"
+msgstr "小盾牌"
 
 #. Enemy sniper-feed name - name (kiter)
 #. source: Recycler
@@ -1818,7 +1818,7 @@ msgstr "垃圾桶"
 #. Enemy sniper-feed name - name (dxdiag)
 #. source: GfxDiag
 msgid "ENEMY.dxdiag.name"
-msgstr "IndirectX 诊断工具"
+msgstr "GFX 诊断工具"
 
 #. Enemy sniper-feed name - name (burning_disc)
 #. source: PyroDisc
@@ -1838,7 +1838,7 @@ msgstr "AVN 好友"
 #. Enemy sniper-feed name - name (big_shield)
 #. source: Big Shield
 msgid "ENEMY.big_shield.name"
-msgstr "大红盾"
+msgstr "大盾牌"
 
 #. Enemy sniper-feed name - name (memory_leak)
 #. source: Memory Leak
@@ -3148,7 +3148,7 @@ msgstr "添加或删除解锁项"
 #. Add/Remove Unlocks - weapons tab intro
 #. source: Unlock new weapons to start with and choose during runs.
 msgid "UI.features_store_intro_weapons"
-msgstr "解锁新武器以作为初始武器，或在游戏中选用。"
+msgstr "解锁新武器以作为初始武器或在游戏中选用。"
 
 #. Add/Remove Unlocks - cursors tab intro
 #. source: Unlock new Cursor Classes to start with.
@@ -3515,7 +3515,7 @@ msgstr "%s已升至 %d 级。请选择一个驱动。"
 #. Coin Collector notification
 #. source: Collecting coins
 msgid "UI.notif_coin_magnet"
-msgstr "正在收集硬币"
+msgstr "正在收集硬币。"
 
 #. Stock auto-cashout notification with amount
 #. source: Investment withdrawn (%.2f)
@@ -3850,10 +3850,11 @@ msgstr ""
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
-"如果这是您首次看到此终止界面，请重启系统。如果此界面仍然出现，则内部模块可"
-"能被破坏，请验证已安装组件的完整性。异常行为可能表明内存损坏、无效数据包注"
-"入或存在未经授权的脚本执行。如问题仍未解决，请执行安全重启或联系系统内部管"
-"理员。\n"
+"如果这是您首次看到此终止界面，请重启系统。如果此界面仍然出现，说明内部模块"
+"可能被破坏。\n"
+"\n"
+"请验证已安装组件的完整性。异常行为可能表明内存损坏、无效数据包注入或存在未"
+"经授权的脚本执行。如问题仍未解决，请执行安全重启或联系系统内部管理员。\n"
 "\n"
 "转储信息：\n"
 "\n"
@@ -4325,7 +4326,7 @@ msgstr "淘钥"
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
 msgid "UI.unlock_file_health_check_pro_desc"
-msgstr "立刻回复生命值，或在接下来的战斗中强化健康度检查文件。"
+msgstr "立刻回复生命值，或在接下来的战斗中强化。"
 
 #. UI (script-driven)
 #. source: Health Check Plus
@@ -4517,7 +4518,7 @@ msgstr "内存不足"
 #. Optional extra difficulty policy - description (low_memory)
 #. source: No new weapons at level 8, 16, or 24.
 msgid "POLICY.low_memory.description"
-msgstr "不会在8、16、24级时获得新武器。"
+msgstr "达到8、16、24级时不会获得新武器。"
 
 #. Optional extra difficulty policy - name (unsigned_driver)
 #. source: Activation Required
@@ -4717,7 +4718,7 @@ msgstr "已升级"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr "在本轮游戏的后续战斗中，健康度检查文件会掉落更多的心。"
+msgstr "在本轮游戏的后续战斗中，会掉落更多的心。"
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4742,7 +4743,7 @@ msgstr "即刻修复"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr "升级后，战斗中的健康度检查文件会掉落更多的心。"
+msgstr "升级后，战斗中的会掉落更多的心。"
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -5200,7 +5201,7 @@ msgstr ""
 #. source: %s extracted successfully.
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracted_success"
-msgstr "%s 解压完成，掉落了数据。"
+msgstr "%s 解压完成。"
 
 #. DLL
 #. source: Missing dynamic link library %s located.
@@ -5469,7 +5470,7 @@ msgstr "安全文件夹"
 
 #. Scene label
 msgid "Next Folder"
-msgstr "下一个文件夹"
+msgstr "下个文件夹"
 
 #. Scene label
 msgid "Coin Collector"
@@ -5494,7 +5495,7 @@ msgstr "下载内存"
 
 #. RAM download complete
 msgid "RAM download complete."
-msgstr "内存下载完成，掉落了数据。"
+msgstr "内存下载完成。"
 
 #. keygen
 msgid "keygen.exe"
@@ -5534,15 +5535,15 @@ msgstr "avs03.com"
 
 #. Scene label
 msgid "Level 8"
-msgstr "8 级解锁"
+msgstr "8 级"
 
 #. Scene label
 msgid "Level 16"
-msgstr "16 级解锁"
+msgstr "16 级"
 
 #. Scene label
 msgid "Level 24 "
-msgstr "24 级解锁"
+msgstr "24 级"
 
 #. Scene label
 msgid "Empty"
@@ -6166,7 +6167,7 @@ msgstr "碎片整理中"
 #. Scene label
 #. screens: defrag_window.tscn
 msgid "Estimated exp before defragmentation:"
-msgstr "碎片整理后的预计经验值："
+msgstr "碎片整理前的预计经验值："
 
 #. Scene label
 #. screens: dll_window.tscn
