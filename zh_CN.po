@@ -4326,7 +4326,7 @@ msgstr "淘钥"
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
 msgid "UI.unlock_file_health_check_pro_desc"
-msgstr "立刻回复生命值，或在接下来的战斗中强化。"
+msgstr "立刻回复生命值，或在接下来的战斗中强化健康度检查文件。"
 
 #. UI (script-driven)
 #. source: Health Check Plus
@@ -4718,7 +4718,7 @@ msgstr "已升级"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr "在本轮游戏的后续战斗中，会掉落更多的心。"
+msgstr "在本轮游戏的后续战斗中，健康度检查文件会掉落更多的心"
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4743,7 +4743,7 @@ msgstr "即刻修复"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr "升级后，战斗中的会掉落更多的心。"
+msgstr "升级后，战斗中的健康度检查文件会掉落更多的心。"
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
