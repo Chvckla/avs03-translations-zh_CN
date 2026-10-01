@@ -268,7 +268,7 @@ msgstr ""
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
 msgid "PLUGIN.armor_missing_hp.name"
-msgstr "最后一次的正确"
+msgstr "最后一次正确"
 
 #. Plugin - description (armor_missing_hp)
 #. source: Add +1 Armo(u)r per 2% missing HP.
