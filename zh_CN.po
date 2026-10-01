@@ -2253,7 +2253,7 @@ msgstr "完成"
 #. Torrent window
 #. source: Stalled
 msgid "TORRENT.stalled"
-msgstr "等待"
+msgstr "暂停"
 
 #. Torrent window
 #. source: Downloading
@@ -3987,7 +3987,7 @@ msgstr "全部 (%d)"
 #. source: Downloading (%d)
 #. Keep placeholders unchanged: %d
 msgid "UI.downloading_count"
-msgstr "下载中 (%d)"
+msgstr "下载 (%d)"
 
 #. Torrent window - tab
 #. source: Completed (%d)
@@ -3999,7 +3999,7 @@ msgstr "完成 (%d)"
 #. source: Stalled (%d)
 #. Keep placeholders unchanged: %d
 msgid "UI.stalled_count"
-msgstr "等待 (%d)"
+msgstr "暂停 (%d)"
 
 #. End screen exit bar close prompt
 #. source: Press {close} to reboot to main menu...
@@ -6686,7 +6686,7 @@ msgstr "大小"
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Progress"
-msgstr "已完成"
+msgstr "进度"
 
 #. Scene label
 #. screens: torrent_window.tscn
