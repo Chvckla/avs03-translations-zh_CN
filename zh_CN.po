@@ -1089,7 +1089,7 @@ msgstr "处理速度"
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
 msgstr ""
-"影响处理所有文件（如 .zip 文件、.bat 文件、柠檬音乐文件等）的速度（按指数计"
+"影响处理所有文件（如 .zip 文件、.bat 文件、LemWire 文件等）的速度（按指数计"
 "算）。"
 
 #. Stat display - name (upgrade_player_refresh_multi)
@@ -2571,7 +2571,7 @@ msgstr "敌人"
 #. Personalise - avatar name
 #. source: Lemwire
 msgid "UI.avatar_lemwire"
-msgstr "柠檬音乐"
+msgstr "LemWire"
 
 #. Personalise - avatar name
 #. source: Coin
@@ -4216,7 +4216,7 @@ msgstr "奖励"
 #. source: Open {amount} LemWire files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_lemwire"
-msgstr "打开柠檬音乐文件 {amount} 次"
+msgstr "打开 LemWire 文件 {amount} 次"
 
 #. Unlock requirement - trigger N spam ad attacks
 #. source: Trigger {amount} Spam Ad Attacks
@@ -5222,7 +5222,7 @@ msgstr "网际巨浪.exe"
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "柠檬音乐.exe"
+msgstr "LemWire.exe"
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
@@ -6207,12 +6207,12 @@ msgstr "生成序列号"
 #. Scene label
 #. screens: lem_upgrade_screen.tscn
 msgid "LemWire 4.7 - Pick Your Download"
-msgstr "柠檬音乐 4.7 - 选择您的下载"
+msgstr "LemWire 4.7 - 选择您的下载"
 
 #. Scene label
 #. screens: lem_window.tscn
 msgid "LemWire 4.7"
-msgstr "柠檬音乐 4.7"
+msgstr "LemWire 4.7"
 
 #. Scene label
 #. screens: lem_window.tscn
