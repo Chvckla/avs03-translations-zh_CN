@@ -1265,7 +1265,7 @@ msgstr "艺术字"
 #. Weapon amount upgrade - phrase after "additional" for HaD: DoCK
 #. source: shots
 msgid "WEAPON.hitmarkers.spawn_noun"
-msgstr "准星"
+msgstr "射击"
 
 #. Weapon amount upgrade - phrase after "additional" for Paint
 #. source: circles spawning
@@ -1653,7 +1653,7 @@ msgstr "屠龙刀"
 #. Weapon metadata
 #. source: shot
 msgid "WEAPON.sniper.spawn_noun"
-msgstr "准星"
+msgstr "射击"
 
 #. Weapon metadata
 #. source: mine
