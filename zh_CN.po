@@ -3586,7 +3586,7 @@ msgid "UI.tutorial_1_body"
 msgstr ""
 "欢迎来到{game}！\n"
 "\n"
-"我是 Virry，接下来由我我带您了解一些基本玩法。"
+"我是 Virry，接下来由我带您了解一些基本玩法。"
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
@@ -3645,8 +3645,9 @@ msgstr ""
 msgid "UI.tutorial_6_body"
 msgstr ""
 "生存技巧：\n"
-"躲避敌人、收集经验和硬币、打开文件。有些文件可能有风险，有些文件需要密钥，"
-"有些文件只有好处，没有坏处。\n"
+"躲避敌人、收集经验和硬币、打开文件。\n"
+"\n"
+"有些文件可能有风险，有些文件需要密钥，有些文件只有好处，没有坏处。\n"
 "\n"
 "在右上角，您可以看到每回合中的次要任务，完成即可获得奖励。"
 
