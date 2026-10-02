@@ -216,32 +216,32 @@ msgstr "每升一级，处理速度增加 +1%。"
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr "每升一级，武器生成增加 +3%。"
+msgstr "每升一级，额外生成武器几率增加 +3%。"
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
 msgid "META.weap_damage.description"
-msgstr "每升一级，武器伤害增加 +2%。"
+msgstr "每升一级，武器伤害倍率增加 +2%。"
 
 #. Meta upgrade menu - description (weap_refresh)
 #. source: Multiply Weapon Refresh by an extra +1% per Rank.
 msgid "META.weap_refresh.description"
-msgstr "每升一级，武器刷新增加 +1%。"
+msgstr "每升一级，武器刷新倍率增加 +1%。"
 
 #. Meta upgrade menu - description (weap_repel)
 #. source: Multiply Weapon Repel by an extra +1% per Rank.
 msgid "META.weap_repel.description"
-msgstr "每升一级，武器击退增加 +1%。"
+msgstr "每升一级，武器击退倍率增加 +1%。"
 
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
 msgid "META.weap_size.description"
-msgstr "每升一级，武器大小增加 +1%。"
+msgstr "每升一级，武器大小倍率增加 +1%。"
 
 #. Meta upgrade menu - description (weap_speed)
 #. source: Multiply Weapon Speed by an extra +1% per Rank.
 msgid "META.weap_speed.description"
-msgstr "每升一级，武器速度增加 +1%。"
+msgstr "每升一级，武器速度倍率增加 +1%。"
 
 #. Plugin - name (armor_boost)
 #. source: Armo(u)r Boost
@@ -295,7 +295,7 @@ msgstr "高峰时段"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "当打开网际巨浪时，武器伤害增加 10%。"
+msgstr "当打开网际巨浪时，武器伤害倍率增加 10%。"
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -1290,7 +1290,7 @@ msgstr "放大镜"
 #. Weapon amount upgrade - phrase after "additional" for Solitaire
 #. source: cards spawning
 msgid "WEAPON.solitaire.spawn_noun"
-msgstr "扑克牌"
+msgstr "纸牌"
 
 #. Upgrade card - description (upgrade_player_armor)
 #. source: Increases damage resistance by +{percent}%.
@@ -1320,7 +1320,7 @@ msgstr "暴击伤害增加 +{percent}%。‪"
 #. source: Increases weapon damage multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_damage_multi.description"
-msgstr "武器伤害增加 +{percent}%。‪"
+msgstr "武器伤害倍率增加 +{percent}%。‪"
 
 #. Upgrade card - description (upgrade_player_dodge)
 #. source: Increases chance of dodging damage by +{percent}%.
@@ -1374,7 +1374,7 @@ msgstr "打开文件的速度增加 +{percent}%。"
 #. source: Increases weapon refresh multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_refresh_multi.description"
-msgstr "武器刷新增加 +{percent}%。‪"
+msgstr "武器刷新倍率增加 +{percent}%。‪"
 
 #. Upgrade card - description (upgrade_player_speed)
 #. source: Increases movement speed by +{percent}%.
@@ -1392,13 +1392,13 @@ msgstr "武器生成增加 +{percent}%。‪"
 #. source: Increases weapon size multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_size.description"
-msgstr "武器大小增加 +{percent}%。‪"
+msgstr "武器大小倍率增加 +{percent}%。‪"
 
 #. Upgrade card - description (upgrade_player_weap_speed)
 #. source: Increases weapon attack speed multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_speed.description"
-msgstr "武器速度增加 +{percent}%。‪"
+msgstr "武器速度倍率增加 +{percent}%。‪"
 
 #. Upgrade card - name (weapon_avd)
 #. source: AVD Logo
@@ -1538,7 +1538,7 @@ msgstr "屠龙刀"
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr "在指针上方和下方斩击。当数量增加时，斩击会交替出现-。"
+msgstr "在指针上方和下方斩击。当数量增加时，斩击会交替出现。"
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -2339,7 +2339,7 @@ msgstr "已登录"
 msgid "UI.login_prompt"
 msgstr ""
 "要开始，请单击您的用户名。\n"
-"登录后，只需单击菜单顶部您的名字，即可切换用户。"
+"登录后，只需单击菜单顶部的您的名字，即可切换用户。"
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2455,7 +2455,7 @@ msgstr "解锁新的头像。"
 #. Cosmetic unlock - wallpaper reward blurb
 #. source: Unlocks a new desktop wallpaper.
 msgid "UI.cosmetic_wallpaper_desc"
-msgstr "解锁新的桌面壁纸。"
+msgstr "解锁新的桌面背景。"
 
 #. Cosmetic unlock - theme reward blurb
 #. source: Unlocks a new desktop theme.
@@ -3379,7 +3379,7 @@ msgstr "安全设置"
 #. Policies list column - completion count
 #. source: Completions
 msgid "UI.policies_col_completed"
-msgstr "完成"
+msgstr "UI.policies_col_completed"
 
 #. Policies list - security setting when enabled
 #. source: Enabled
@@ -3552,7 +3552,7 @@ msgstr "您在游戏中会有四个武器，这是第一个。随着等级提升
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr "不同的指针类会改变您的基础数值。所有升级都会受基础数值影响。"
+msgstr "不同的指针类会改变您的基础数值。所有升级都会在基础数值之上倍乘。"
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
@@ -4523,7 +4523,7 @@ msgstr "内存不足"
 #. Optional extra difficulty policy - description (low_memory)
 #. source: No new weapons at level 8, 16, or 24.
 msgid "POLICY.low_memory.description"
-msgstr "达到8、16、24级时不会获得新武器。"
+msgstr "升至8、16、24级时不会获得新武器。"
 
 #. Optional extra difficulty policy - name (unsigned_driver)
 #. source: Activation Required
@@ -5139,7 +5139,7 @@ msgstr "击中次数：%d"
 #. source: Crit rate: %.0f%%
 #. Keep placeholders unchanged: %.0f, %%
 msgid "TOOLTIP.run_crit_rate"
-msgstr "暴击率：%.0f%%"
+msgstr "总计暴击率：%.0f%%"
 
 #. Stat tooltip
 #. source: Clears: %d
@@ -6514,7 +6514,7 @@ msgstr ""
 "——更多敌人\n"
 "——头目\n"
 "——类\n"
-"——壁纸\n"
+"——背景\n"
 "——武器升级\n"
 "还有更多！"
 
