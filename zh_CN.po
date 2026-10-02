@@ -151,7 +151,7 @@ msgstr "每升一级，护甲增加 +1 点。"
 #. Meta upgrade menu - description (coin_gain)
 #. source: Multiply Coin Gain by an extra +1% per Rank.
 msgid "META.coin_gain.description"
-msgstr "每升一级，硬币获取量增加 +1%。"
+msgstr "每升一级，硬币获取倍率增加 +1%。"
 
 #. Meta upgrade menu - description (crit_chance)
 #. source: Increases Crit Chance +1% per Rank.
@@ -176,7 +176,7 @@ msgstr "每升一级，指针速度增加 +1%。"
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
 msgid "META.exp_gain.description"
-msgstr "每升一级，经验获取量增加 +2%。"
+msgstr "每升一级，经验获取倍率增加 +2%。"
 
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 Health Regen per Rank.
@@ -3379,7 +3379,7 @@ msgstr "安全设置"
 #. Policies list column - completion count
 #. source: Completions
 msgid "UI.policies_col_completed"
-msgstr "UI.policies_col_completed"
+msgstr "完成"
 
 #. Policies list - security setting when enabled
 #. source: Enabled
