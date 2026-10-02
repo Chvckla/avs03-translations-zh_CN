@@ -216,7 +216,7 @@ msgstr "每升一级，处理速度增加 +1%。"
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr "每升一级，额外生成武器几率增加 +3%。"
+msgstr "每升一级，额外生成武器的几率增加 +3%。"
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
@@ -335,7 +335,7 @@ msgstr "共享文件夹"
 #. Plugin - description (coin_drop_boost)
 #. source: Increase enemy Coin Drop Chance +20%.
 msgid "PLUGIN.coin_drop_boost.description"
-msgstr "敌人掉落硬币几率增加 +20%。"
+msgstr "敌人掉落硬币的几率增加 +20%。"
 
 #. Plugin - name (crit_chance_boost)
 #. source: Crit Chance Boost
@@ -615,7 +615,7 @@ msgstr "错误报告"
 #. Plugin - description (xp_drop_boost)
 #. source: Increase enemy EXP Drop Chance +20%.
 msgid "PLUGIN.xp_drop_boost.description"
-msgstr "敌人掉落经验几率增加 +20%。"
+msgstr "敌人掉落经验的几率增加 +20%。"
 
 #. Plugin - name (xp_file_open)
 #. source: Knowledge Base
@@ -1326,7 +1326,7 @@ msgstr "武器伤害倍率增加 +{percent}%。‪"
 #. source: Increases chance of dodging damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_dodge.description"
-msgstr "闪避伤害几率增加 +{percent}%。‪"
+msgstr "闪避伤害的几率增加 +{percent}%。‪"
 
 #. Upgrade card - description (upgrade_player_exp_gain)
 #. source: Increases EXP gain by +{percent}%.
