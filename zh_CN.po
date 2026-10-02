@@ -2385,7 +2385,7 @@ msgstr "应用"
 #. source: %d/%d Unlocked
 #. Keep placeholders unchanged: %d
 msgid "UI.personalise_themes_unlocked"
-msgstr "%d/%d 已解锁"
+msgstr "已解锁 %d/%d"
 
 #. Personalise window - hide locked themes and wallpapers
 #. source: Hide Locked
@@ -2425,7 +2425,7 @@ msgstr "主题"
 #. Personalise window - wallpaper group box title
 #. source: Wallpaper
 msgid "UI.personalise_group_background"
-msgstr "壁纸"
+msgstr "背景"
 
 #. Personalise window - user name group box title
 #. source: User name
@@ -4960,7 +4960,7 @@ msgstr "双击购买"
 #. source: %s to Refund
 #. Keep placeholders unchanged: %s
 msgid "CLICKABLE.menu_shortcut_refund"
-msgstr "%s退还"
+msgstr "%s退款"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Fight
@@ -6539,7 +6539,7 @@ msgstr "升级管理器 2003 rc2"
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "Refund All"
-msgstr "全部退还"
+msgstr "全部退款"
 
 #. Scene label
 #. screens: notif_bubble.tscn
