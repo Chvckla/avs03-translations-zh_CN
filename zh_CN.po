@@ -1290,37 +1290,37 @@ msgstr "伤害抗性 +{percent}%。"
 #. source: Increases coin gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_coin_gain.description"
-msgstr "硬币获取 +{percent}%。‪"
+msgstr "硬币获取 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_crit_chance)
 #. source: Increases crit hit chance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_chance.description"
-msgstr "暴击概率 +{percent}%。‪"
+msgstr "暴击概率 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_crit_damage_multi)
 #. source: Increases crit hit damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
-msgstr "暴击伤害 +{percent}%。‪"
+msgstr "暴击伤害 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_damage_multi)
 #. source: Increases weapon damage multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_damage_multi.description"
-msgstr "武器伤害倍率 +{percent}%。‪"
+msgstr "武器伤害倍率 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_dodge)
 #. source: Increases chance of dodging damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_dodge.description"
-msgstr "闪避伤害的概率 +{percent}%。‪"
+msgstr "闪避伤害的概率 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_exp_gain)
 #. source: Increases EXP gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_exp_gain.description"
-msgstr "经验获取 +{percent}%。‪"
+msgstr "经验获取 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_health_regen)
 #. source: Increases Health Regen by +{percent} every 20s.
@@ -1332,19 +1332,19 @@ msgstr "每 20 秒额外再生 {percent} 点生命值。"
 #. source: Increases luck by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_luck.description"
-msgstr "幸运 +{percent}%。‪"
+msgstr "幸运 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_magnetism_multi)
 #. source: Increases player magnetism by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_magnetism_multi.description"
-msgstr "玩家的磁力 +{percent}%。‪"
+msgstr "玩家的磁力 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_max_health)
 #. source: Increases Max HP by +{percent}.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_max_health.description"
-msgstr "最大生命值 +{percent}。‪"
+msgstr "最大生命值 +{percent}。"
 
 #. Upgrade card - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
@@ -1362,31 +1362,31 @@ msgstr "打开文件的速度 +{percent}%。"
 #. source: Increases weapon refresh multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_refresh_multi.description"
-msgstr "武器刷新倍率 +{percent}%。‪"
+msgstr "武器刷新倍率 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_speed)
 #. source: Increases movement speed by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_speed.description"
-msgstr "移动速度 +{percent}%。‪"
+msgstr "移动速度 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_weap_amount)
 #. source: Adds +{percent}% chance of additional weapon spawns.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_amount.description"
-msgstr "额外生成武器的概率 +{percent}%。‪"
+msgstr "额外生成武器的概率 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_weap_size)
 #. source: Increases weapon size multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_size.description"
-msgstr "武器大小倍率 +{percent}%。‪"
+msgstr "武器大小倍率 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_weap_speed)
 #. source: Increases weapon attack speed multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_speed.description"
-msgstr "武器速度倍率 +{percent}%。‪"
+msgstr "武器速度倍率 +{percent}%。"
 
 #. Upgrade card - name (weapon_avd)
 #. source: AVD Logo
